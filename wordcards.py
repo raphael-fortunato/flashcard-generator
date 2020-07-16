@@ -128,7 +128,7 @@ def wordcard(filename, deck):
             fields=[word,
                     row['info'],
                     f'<img src="{images[index].split("/")[-1]}">',
-                    f'[sound:{os.path.abspath(audio_path)}]'])
+                    f'[sound:{audio_path.split("/")[-1]}]'])
         notes.append(note)
         delete_idx.append(index)
 
@@ -137,7 +137,8 @@ def wordcard(filename, deck):
 
     my_package = genanki.Package(deck)
     media = [os.path.abspath(img) for img in images if exists(img) is not None]
-    media.extend([os.path.abspath(aud) for aud in audio if aud is not None])
+    media.extend([aud
+                  for aud in audio if exists(aud) is not None])
     my_package.media_files = media
     file = f'{time.time()}.apkg'
     my_package.write_to_file(file)

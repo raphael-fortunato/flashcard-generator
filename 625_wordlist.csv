@@ -1,624 +1,625 @@
-,word,translation,info
-1,céu,heaven,m. noun
-2,cima,on top,adverb
-3,lua,moon,f. noun
-4,um,1,card. number
-5,branco,white,adj.
-6,ponto,point,m. noun
-7,estrela,star,f. noun
-8,sexta-feira,Friday,f. noun /day
-9,garçom,waiter,m. noun
-10,ficar de pé,to stand,verb
-11,costas,back (body part),f. pl. noun
-12,dor,pain,f. noun
-13,contar,to tell,verb
-14,cento e um,101,card. number
-15,jovem,young,adj.
-16,cachorro,dog,m. noun
-17,parque,park,m. noun
-18,pular,to jump,verb
-19,primavera,spring,f. noun
-20,março,March,m. noun/ month
-21,vinte,20,card. number
-22,raso,shallow water,adj.
-23,rio,river,m. noun
-24,gelo,ice,m. noun
-25,derreter,to melt,verb
-26,beijar,to kiss,verb
-27,pescoço,neck,m. noun
-28,tocar,to play music,verb
-29,corpo,body,m. noun
-30,sexo,sex,m. noun
-31,casamento,marriage,m. noun
-32,janeiro,January,m. noun
-33,primeiro,first,ord. number
-34,novo,new,adj.
-35,esporte,sport,m. noun
-36,exercício,exercise,m. noun
-37,saudável,healthy,adj.
-38,cinco,five,card. number
-39,pé,foot,m. noun
-40,baixo,low,adj.
-41,mulher,woman,f. noun
-42,vestir,to wear,verb
-43,orelha,ear,f. noun
-44,anel,ring,m. noun
-45,apertado,tight,adj.
-46,saia,skirt,f. noun
-47,surdo,deaf,adj.
-48,pais,parents,m. pl. noun
-49,alto,high,adj.
-50,telefone,telephone,m. noun
-51,bebê,baby,m. noun
-52,chorar,cry,verb
-53,lágrima,tear,f. noun
-54,escuro,dark,adj.
-55,teatro,theater,m. noun
-56,rei,king,m. noun
-57,amar,to love,verb
-58,mil e um,a thousand and one,card. number
-59,noite,night,f. noun
-60,inverno,winter,m. noun
-61,segundo,second,ord. Number
-62,fevereiro,February,m. noun/ month
-63,andar,to walk,verb
-64,frio,cold,adj.
-65,norte,north,m. noun
-66,cidade,city,f. noun
-67,chuva,rain,f. noun
-68,molhado,wet,adj.
-69,cinza,grey,adj./f. noun
-70,comprar,to buy,verb
-71,presente,gift,m. noun
-72,bicicleta,bicycle,f. noun
-73,isso,that,pronoun
-74,dinheiro,money,m. noun
-75,roupa,clothing,f. noun
-76,loja,store,f. noun
-77,placa,board,f. noun
-78,vender,to sell,verb
-79,longo,long,adj.
-80,solto,loose,adj.
-81,calças,pants,f. pl. noun
-82,bolso,handbag,m. noun
-83,preço,price,m. noun
-84,oitenta,80,card. number
-85,setenta,70,card. number
-86,um milhão,a million,card. number
-87,ano,year,m. noun
-88,antigo,old,adj.
-89,duro,hard,adj.
-90,pedra,stone,f. noun
-91,montanha,mountain,f. noun
-92,cair,To fall,verb
-93,morto,dead,adj.
-94,caminhão,truck,m. noun
-95,pneu,tire,m. noun
-96,chão,floor,m. noun
-97,carregar,to load,verb
-98,peso,weight,m. noun
-99,zero,0,card. number
-100,curvo,curve,f. noun
-101,círculo,circle,m. noun
-102,número,number,m. noun
-103,junho,June,m. noun/ month
-104,morno,warm,adj.
-105,praia,beach,f. noun
-106,areia,sand,f. noun
-107,ilha,island,f. noun
-108,paraíso,paradise,m. noun
-109,porco,pig,m. noun
-110,quatro,4,card. number
-111,perna,leg,f. noun
-112,sujo,dirrty,adj.
-113,cavar,to dig,verb
-114,terra,land,f. noun
-115,comer,to eat,verb
-116,milho,corn,m. noun
-117,planta,plant,f. noun
-118,família,family,f. noun
-119,sentar,to sit,verb
-120,vidro,glass,m. noun
-121,fundo,bottom,m. noun
-122,barco,boat,m. noun
-123,câmera,camera,f. noun
-124,fotografia,photography,f. noun
-125,mar,sea,m. noun
-126,artista,artist,m. noun/ f. noun
-127,cobra,snake,m. noun
-128,ferramenta,tool,f. noun
-129,bonito,beautiful,adj.
-130,argila,clay,f. noun
-131,lâmpada,lamp,f. noun
-132,trinta,30,card. number
-133,centímetro,centimeter,m. noun
-134,alto,high,adj.
-135,barato,cheap,adj.
-136,hotel,hotel,m. noun
-137,sete,seven ,card. number
-138,dia,day,m. noun
-139,plástico,plastic,m. noun
-140,cama,bed,f. noun
-141,tribunal,court,m. noun
-142,advogado,laywer,m. noun
-143,quieto,quiet,adj.
-144,voz,voice,f. noun
-145,um bilião,one billion,card. number
-146,dólar,dolar,m. noun
-147,contrato,contract,m. noun
-148,assinar,to sign,verb
-149,final de tarde,afternoon,m. noun
-150,onze,11,card. number
-151,quinze,15,card. number
-152,casa,house,f. noun
-153,fechadura,lock,f. noun
-154,dormir,To sleep,verb
-155,coração,heart,m. noun
-156,doença,disease,f. noun
-157,médico,doctor,m. noun
-158,empurrar,push,verb
-159,agulha,needle,f. noun
-160,remédio,medicin,m. noun
-161,vivo,live,adj.
-162,gato,cat,m. noun
-163,seguir,To follow,verb
-164,três,three,card. number
-165,cego,blind,adj.
-166,rato,rat,m. noun
-167,papel,paper,m. noun
-168,carta,letter,f. noun
-169,banco,banc,m. noun
-170,gerente,boss,m. noun/ f. noun
-171,trabalho,work,m. noun
-172,sim,yes,adverb
-173,feliz,happy,adj.
-174,homem,man,m. noun
-175,vocês,you (plural),pronoun
-176,oito,8,card. number
-177,cadeira,chair,f. noun
-178,restaurante,restaurant,m. noun
-179,estreito,narrow,adj.
-180,mesa,table,f. noun
-181,jantar,dinner,m. noun
-182,vinho,wine,m. noun
-183,galinha,chicken,f. noun
-184,sopa,soup,f. noun
-185,colher,spoon,f. noun
-186,trinta e um,31,card. number
-187,data,date (calender),f. noun
-188,dezembro,december,m. noun/ month
-189,neve,snow,f. noun
-190,sapatos,shoes,m. pl. noun
-191,ir,to go,verb
-192,floresta,forrest,f. noun
-193,vento,wind,m. noun
-194,agitar,to shake,verb
-195,fino,thin,adj.
-196,folha,leaf,f. noun
-197,esposa,wive,f. noun
-198,pequeno,small,adj.
-199,diamante,diamant,m. noun
-200,casamento,weding,m. noun
-201,vestido,dress,m. noun
-202,domingo,Sunday,m. noun/ day
-203,jogar,to play,verb
-204,arroz,rice,m. noun
-205,outubro,october,m. noun/ month
-206,quinta-feira,thursday,f. noun/ day
-207,dois,two,card. number
-208,equipe,team,f. noun
-209,vinte e dois,22,card. number
-210,jogador,player,m. noun
-211,pé,foot,m. noun
-212,bola,cake,f. noun
-213,fã,fan,m. noun/ f. noun
-214,bater,to hit,verb
-215,cavalo,horse,m. noun
-216,forte,strong,adj.
-217,animal,animal,m. noun
-218,puxar,To pull,verb
-219,pesado,heavy,adj.
-220,caixa,box,f. noun
-221,relógio,watch,m. noun
-222,nove,nine,card. number
-223,quarenta,fourty,card. number
-224,manhã,morning,f. noun
-225,sol,Sunday,m. noun/ day
-226,luz,light (e.g. sunlight),f. noun
-227,café,cafe,m. noun
-228,nariz,nose,m. noun
-229,cheirar,to smell,verb
-230,frente,front,adverb/f. noun
-231,casa de banho,toilet,m. noun
-232,janela,window,f. noun
-233,ver,to see,verb
-234,olho,eye,m. noun
-235,jardim,garden,m. noun
-236,apanhar,to cath,verb
-237,seis,six ,card. number
-238,quilograma,kilogram,m. noun
-239,feio,ugly,adj.
-240,plano,plane,adj.
-241,peixe,fish,m. noun
-242,você,you  ,pronoun
-243,aprender,to learn,verb
-244,dez,ten,card. number
-245,dedo,finger,m. noun
-246,programa (de computador),program,m. noun
-247,tecnologia,technology,f. noun
-248,eu,I ,pronoun
-249,cozinhar,To cook,verb
-250,ovo,this,m. noun
-251,café da manhã,breakfast,m. noun
-252,cozinha,kitchen,f. noun
-253,bom,good,adj.
-254,copo,cup,m. noun
-255,laranja,orange,f. noun
-256,suco,juice,m. noun
-257,estação de trem,train station,f. noun
-258,droga,way,f. noun
-259,pagar,To pay,verb
-260,prisão,prison,f. noun
-261,adulto,adult,m. noun
-262,doze,12,card. number
-263,mês,month,m. noun
-264,cento e dois,one hundred and two,card. number
-265,temperatura,temperature,f. noun
-266,quente,hot,adj.
-267,seco,dry,adj.
-268,verão,summer,m. noun
-269,suor,sweat,m. noun
-270,agosto,August,m. noun/ month
-271,piscina,swimming pool,f. noun
-272,natureza,nature,f. noun
-273,cantar,To sing,verb
-274,amarelo,yellow,adj.
-275,pássaro,bird,m. noun
-276,asa,wing,f. noun
-277,árvore,tree,f. noun
-278,madeira,wood,f. noun
-279,grosso,thick,adj.
-280,raíz,root,f. noun
-281,treze,13,card. number
-282,chão,floor,m. noun
-283,edifício,building,m. noun
-284,passar por,To pass by,verb
-285,morte,death,f. noun
-286,desenhar,to draw,verb
-287,caneta,pen,f. noun
-288,imagem,Image,f. noun
-289,pendurar,to hang,verb
-290,parede,wall,f. noun
-291,arte,art,f. noun
-292,dezoito,18,card. number
-293,buraco,hole,m. noun
-294,jogo,game,m. noun
-295,jogar,play,verb
-296,verde,verde,adj.
-297,quintal,garden,m. noun
-298,perder,to lose,verb
-299,grande,big,adj.
-300,mão,hand,f. noun
-301,macho,macho,adj.
-302,filme,movie,m. noun
-303,ator,actor,m. noun
-304,menino,boy,m. noun
-305,peça,piece,f. noun
-306,limão,lemon,m. noun
-307,açúcar,sugar,m. noun
-308,bolo,cake,m. noun
-309,garfo,fork,m. noun
-310,prato,plate,m. noun
-311,dezessete,27,card. number
-312,abril,April,m. noun/ month
-313,quarta-feira,Wednesday,f. noun/ day
-314,mercado,market,m. noun
-315,comida,food,f. noun
-316,almoço,lunch,m. noun
-317,pão,bread,m. noun
-318,carne,meat,f. noun
-319,banana,banana,f. noun
-320,ombro,shoulder,m. noun
-321,bolsa,bag,f. noun
-322,esquerda,left,adverb
-323,lado,side,m. noun
-324,levantar,To lift up,verb
-325,ela,she,pronoun
-326,deitar,to lay,verb
-327,quarto,bedroom,m. noun
-328,teto,ceiling,m. noun
-329,ventilador,fan,m. noun
-330,ar,air ,m. noun
-331,tempo,time,m. noun
-332,dezesseis,16,card. number
-333,tarde,late,f. noun
-334,avião,airplane,m. noun
-335,bilhete (de trem),ticket (train),m. noun
-336,dentro,inside,adverb
-337,aeroporto,airport,m. noun
-338,reto,straight,adjective
-339,para trás,backward,adverb
-340,celular,cell phone,m. noun
-341,rede,network,f. noun
-342,noventa,ninety,card. number
-343,minuto,minute,m. noun
-344,ligar,turn on,verb
-345,amigo,friend,m. noun
-346,rir,laugh,verb
-347,irmã,sister,f. noun
-348,nadar,swim,verb
-349,lago,lago,m. noun
-350,água,water,f. noun
-351,vizinho,neighbor,m. noun
-352,construir,build,verb
-353,oitenta e um,eighty one,card. number
-354,quadrado,square,m. noun
-355,metro,metro,m. noun
-356,casa,house,f. noun
-357,laranja,orange,adj/m.noun
-358,tinta,ink,f. noun
-359,irmão,brother,m. noun
-360,sessenta,sixty,card. number
-361,segundo,second,m. noun
-362,alto,alto,adj.
-363,monte,hill,m. noun
-364,corrida,running,f. noun
-365,correr,to run,verb
-366,rápido,quick,adj.
-367,presidente,president,m. noun
-368,ganhar,win,verb
-369,eleição,election,f. noun
-370,terça-feira,Tuesday,f. noun/ day
-371,novembro,November,m. noun/ month
-372,terceiro,third,ord. number
-373,sábado,Saturday,m. noun/ day
-374,bar,bar,m. noun
-375,vinte e um,twenty one,card. number
-376,cerveja,beer,f. noun
-377,garrafa,bottle,f. noun
-378,mau,want,adj.
-379,estudante,student,m. noun/ f. noun
-380,universidade,university,f. noun
-381,raça,breed,f. noun
-382,pele,skin,f. noun
-383,cor,cor,f. noun
-384,humano,human,m. noun
-385,lutar,fight,verb
-386,triste,sad,adj.
-387,agradável,nice,adj.
-388,secretária,Secretary,f. noun
-389,fora,out,adverb
-390,escritório,office,m. noun
-391,ônibus,bus,m. noun
-392,sessenta e dois,sixty two,card. number
-393,biblioteca,library,f. noun
-394,cartão,card,m. noun
-395,claro,clear,adj.
-396,azul,blue,adj.
-397,camisa,shirt,f. noun
-398,polícia,police,f. noun
-399,arma,weapon,f. noun
-400,atirar,shoot,verb
-401,assassinato,murder,m. noun
-402,professor,professor,m. noun
-403,escola,school,f. noun
-404,cinquenta,fifty,card. number
-405,meio,means,m. noun
-406,cem,cem,card. number
-407,ensinar,teach,verb
-408,criança,child,f. noun
-409,lápis,pencil,m. noun
-410,nota,note,f. noun
-411,menina,girl,f. noun
-412,sonho,dream,m. noun
-413,sorrir,smile,verb
-414,rainha,queen,f. noun
-415,sexo,sex,m. noun
-416,feminino,feminine,adj.
-417,ouro,gold,m. noun
-418,cabeça,head,f. noun
-419,rico,rico,adj.
-420,autor,Author,m. noun
-421,cinquenta e dois,fifty two,card. number
-422,semana,week,f. noun
-423,escrever,write,verb
-424,mil,thousand,card. number
-425,página,page,f. noun
-426,livro,book,m. noun
-427,clube,club,m. noun
-428,devagar,slowly,adj.
-429,música,music,f. noun
-430,escutar,listen,verb
-431,instrumento,instrument,m. noun
-432,sul,south,m. noun
-433,oeste,west,m. noun
-434,localização,location,f. noun
-435,cinquenta e um,fifty one,card. number
-436,espaço,space,m. noun
-437,voar,to fly,verb
-438,segunda-feira,monday,f. noun/ day
-439,trem,train  ,m. noun
-440,oitenta e dois,eighty two,card. number
-441,leste,east,m. noun
-442,direção,direction,f. noun
-443,pobre,poor,adj.
-444,mãe,mother,f. noun
-445,trabalhar,to work,verb
-446,cidade,city,f. noun
-447,ciência,science,f. noun
-448,revista,magazine,f. noun
-449,cérebro,brain,m. noun
-450,pensar,to think,verb
-451,nuclear,nuclear,adj.
-452,calor,heat,m. noun
-453,energia,energy,f. noun
-454,noventa e um,ninety one,card. number
-455,gasolina,gasoline,f. noun
-456,motor,motor,m. noun
-457,carro,car,m. noun
-458,transporte,transport,m. noun
-459,dirigir,lead,verb
-460,ponte,ponte,f. noun
-461,virar,turn,verb
-462,direita,right,f. noun
-463,parar,stop,verb
-464,setenta e dois,seventy two,card. number
-465,hora,hour,f. noun
-466,limpar,to clean,verb
-467,casaco,jacket,m. noun
-468,sangue,blood,m. noun
-469,mancha,stain,f. noun
-470,caro,expensive,adj.
-471,conta,account,f. noun
-472,baixo,low,adj.
-473,vale,valley,m. noun
-474,fazenda,farm,f. noun
-475,alimentar,to feed,verb
-476,vaca,cow,f. noun
-477,leite,milk,m. noun
-478,misturar,mix,verb
-479,queijo,cheese,m. noun
-480,nós,we,pronoun
-481,quarto,bedroom,ord. number
-482,julho,July,m. noun
-483,ouvir,listen,verb
-484,explodir,To explode,verb
-485,vermelho,red,adj.
-486,marido,husband,m. noun
-487,rosto,face,m. noun
-488,barba,beard,f. noun
-489,dez mil,ten thousand,card. number
-490,curto,short,adj.
-491,preto,black,adj.
-492,cabelo,hair,m. noun
-493,lábio,lip,m. noun
-494,dente,tooth,m. noun
-495,dizer,tell,verb
-496,consonante,consonant,f. noun
-497,som,sound,m. noun
-498,quatorze,fourteen,card. number
-499,noventa e dois,ninety-two,card. number
-500,encontrar,find,verb
-501,país,country,m. noun
-502,profundo,deep,adj.
-503,oceano,Ocean,m. noun
-504,onda,wave,f. noun
-505,não,no,adverb
-506,mapa,Map,m. noun
-507,borda,edge,f. noun
-508,mundo,world,m. noun
-509,provar,prove,verb
-510,sal,salt,m. noun
-511,óleo,oil,m. noun
-512,maçã,Apple,f. noun
-513,sessenta e um,sixty one,card. number
-514,rua,Street,f. noun
-515,esquina,corner,f. noun
-516,igreja,church,f. noun
-517,padre,father,m. noun
-518,casar,marry,verb
-519,avô,Grandfather,m. noun
-520,chapéu,hat,m. noun
-521,terno,suit,m. noun
-522,fraco,weak,adj.
-523,joelho,knee,m. noun
-524,rezar,to pray,verb
-525,Deus,God,m. noun
-526,paz,paz,f. noun
-527,jornal,newspaper,m. noun
-528,repórter,news reporter,m. noun/ f. noun
-529,ataque,attack,m. noun
-530,exército,army,m. noun
-531,metal,metal,m. noun
-532,navio,ship,m. noun
-533,queimar,burn,verb
-534,dezenove,nineteen,card. number
-535,quarenta e um,Forty-one,card. number
-536,guerra,war,f. noun
-537,prata,talk,f. noun
-538,material,material,m. noun
-539,notebook,notebook,m. noun
-540,fechar,close,verb
-541,maio,May,m. noun/ month
-542,quinto,fifth,ord. number
-543,semente,seed,f. noun
-544,crescer,grow up,verb
-545,rosa,pink/rose,adj. /f. noun
-546,flor,flower,f. noun
-547,cortar,cut,verb
-548,outono,autumn,m. noun
-549,estação,season,f. noun
-550,setembro,September,m. noun/ month
-551,acampamento,camp,m. noun
-552,filha,daughter,f. noun
-553,acordar,wake up,verb
-554,macio,soft,adj.
-555,grama,grass,f. noun
-556,dedo do pé,toe,m. noun
-557,chave,key,f. noun
-558,apartamento,apartment,m. noun
-559,porta,door,f. noun
-560,cento e onze,one hundred and eleven,card. number
-561,eles,they,pronoun
-562,viver,to live,verb
-563,telhado,roof,m. noun
-564,velho,old,adj.
-565,doente,sick,adj.
-566,avó,Grandmother,f. noun
-567,lavar,to wash,verb
-568,sabão,soap,m. noun
-569,limpo,clean,adj.
-570,famoso,famous,adj.
-571,banda,band,f. noun
-572,topo,top,m. noun
-573,rádio,radio,m. noun
-574,canção,song,f. noun
-575,cem mil,hundred thousand,card. number
-576,pessoa,person,f. noun
-577,multidão,crowd,f. noun
-578,dançar,to dance,verb
-579,ele,he,pronoun
-580,mal,bad,adj.
-581,matar,to kill,verb
-582,filho,son,m. noun
-583,faca,knife,f. noun
-584,inferno,hell,m. noun
-585,fogo,fire,m. noun
-586,religião,religion,f. noun
-587,setenta e um,seventy-one,card. number
-588,vítima,victim,f. noun
-589,veneno,poison,m. noun
-590,chá,tea,m. noun
-591,morrer,to die,verb
-592,paciente,patient,m. noun/ f. noun
-593,ferimento,injury,m. noun
-594,quebrar,to break,verb
-595,braço,arm,m. noun
-596,osso,bone,m. noun
-597,hospital,hospital,m. noun
-598,sala,room,f. noun
-599,quarenta e dois,forty-two,card. number
-600,curvar,to bend,verb
-601,língua,language,f. noun
-602,abrir,to open,verb
-603,boca,mouth,f. noun
-604,vogal,vowel,f. noun
-605,cento e dez,hundred and ten,card. number
-606,libra,pound,f. noun
-607,leve,Light (weight),adj.
-608,soldado,soldier,m. noun
-609,marrom,brown,adj
-610,pó,powder,m. noun
-611,padrão,pattern,m. noun
-612,camiseta,T-shirt,f. noun
-613,pai,dad,m. noun
-614,assistir,to watch,verb
-615,trinta e dois,thirty-two,card. number
-616,polegada,inch,f. noun
-617,televisão,TV,f. noun
-618,amplo,broad,adj.
-619,tela,screen,f. noun
-620,beber,drink,verb
-621,fresco,fresco,adj.
-622,bebida,beverage,f. noun
-623,sul,south,m. noun
+word,translation,info
+terra,earth,f. noun
+céu,heaven,m. noun
+cima,up,adverb
+lua,moon,f. noun
+um,1,card. number
+branco,white,adj.
+ponto,point,m. noun
+estrela,star,f. noun
+sexta-feira,Friday,f. noun /day
+garçom,waiter,m. noun
+ficar de pé,to stand,verb
+costas,back (body part),f. pl. noun
+dor,pain,f. noun
+contar,to tell,verb
+cento e um,101,card. number
+jovem,young,adj.
+cachorro,dog,m. noun
+parque,park,m. noun
+pular,to jump,verb
+primavera,spring,f. noun
+março,March,m. noun/ month
+vinte,20,card. number
+raso,shallow water,adj.
+rio,river,m. noun
+gelo,ice,m. noun
+derreter,to melt,verb
+beijar,to kiss,verb
+pescoço,neck,m. noun
+tocar,to play music,verb
+corpo,body,m. noun
+sexo,sex,m. noun
+casamento,marriage,m. noun
+janeiro,January,m. noun
+primeiro,first,ord. number
+novo,new,adj.
+esporte,sport,m. noun
+exercício,exercise,m. noun
+saudável,healthy,adj.
+cinco,five,card. number
+pé,foot,m. noun
+baixo,low,adj.
+mulher,woman,f. noun
+vestir,to wear,verb
+orelha,ear,f. noun
+anel,ring,m. noun
+apertado,tight,adj.
+saia,skirt,f. noun
+surdo,deaf,adj.
+pais,parents,m. pl. noun
+alto,high,adj.
+telefone,telephone,m. noun
+bebê,baby,m. noun
+chorar,cry,verb
+lágrima,tear,f. noun
+escuro,dark,adj.
+teatro,theater,m. noun
+rei,king,m. noun
+amar,to love,verb
+mil e um,a thousand and one,card. number
+noite,night,f. noun
+inverno,winter,m. noun
+segundo,second,ord. Number
+fevereiro,February,m. noun/ month
+andar,to walk,verb
+frio,cold,adj.
+norte,north,m. noun
+cidade,city,f. noun
+chuva,rain,f. noun
+molhado,wet,adj.
+cinza,grey,adj./f. noun
+comprar,to buy,verb
+presente,gift,m. noun
+bicicleta,bicycle,f. noun
+isso,that,pronoun
+dinheiro,money,m. noun
+roupa,clothing,f. noun
+loja,store,f. noun
+placa,board,f. noun
+vender,to sell,verb
+longo,long,adj.
+solto,loose,adj.
+calças,pants,f. pl. noun
+bolso,handbag,m. noun
+preço,price,m. noun
+oitenta,80,card. number
+setenta,70,card. number
+um milhão,a million,card. number
+ano,year,m. noun
+antigo,old,adj.
+duro,hard,adj.
+pedra,stone,f. noun
+montanha,mountain,f. noun
+cair,To fall,verb
+morto,dead,adj.
+caminhão,truck,m. noun
+pneu,tire,m. noun
+chão,floor,m. noun
+carregar,to load,verb
+peso,weight,m. noun
+zero,0,card. number
+curvo,curve,f. noun
+círculo,circle,m. noun
+número,number,m. noun
+junho,June,m. noun/ month
+morno,warm,adj.
+praia,beach,f. noun
+areia,sand,f. noun
+ilha,island,f. noun
+paraíso,paradise,m. noun
+porco,pig,m. noun
+quatro,4,card. number
+perna,leg,f. noun
+sujo,dirrty,adj.
+cavar,to dig,verb
+terra,land,f. noun
+comer,to eat,verb
+milho,corn,m. noun
+planta,plant,f. noun
+família,family,f. noun
+sentar,to sit,verb
+vidro,glass,m. noun
+fundo,bottom,m. noun
+barco,boat,m. noun
+câmera,camera,f. noun
+fotografia,photography,f. noun
+mar,sea,m. noun
+artista,artist,m. noun/ f. noun
+cobra,snake,m. noun
+ferramenta,tool,f. noun
+bonito,beautiful,adj.
+argila,clay,f. noun
+lâmpada,lamp,f. noun
+trinta,30,card. number
+centímetro,centimeter,m. noun
+alto,high,adj.
+barato,cheap,adj.
+hotel,hotel,m. noun
+sete,seven ,card. number
+dia,day,m. noun
+plástico,plastic,m. noun
+cama,bed,f. noun
+tribunal,court,m. noun
+advogado,laywer,m. noun
+quieto,quiet,adj.
+voz,voice,f. noun
+um bilião,one billion,card. number
+dólar,dolar,m. noun
+contrato,contract,m. noun
+assinar,to sign,verb
+final de tarde,afternoon,m. noun
+onze,11,card. number
+quinze,15,card. number
+casa,house,f. noun
+fechadura,lock,f. noun
+dormir,To sleep,verb
+coração,heart,m. noun
+doença,disease,f. noun
+médico,doctor,m. noun
+empurrar,push,verb
+agulha,needle,f. noun
+remédio,medicin,m. noun
+vivo,live,adj.
+gato,cat,m. noun
+seguir,To follow,verb
+três,three,card. number
+cego,blind,adj.
+rato,rat,m. noun
+papel,paper,m. noun
+carta,letter,f. noun
+banco,banc,m. noun
+gerente,boss,m. noun/ f. noun
+trabalho,work,m. noun
+sim,yes,adverb
+feliz,happy,adj.
+homem,man,m. noun
+vocês,you (plural),pronoun
+oito,8,card. number
+cadeira,chair,f. noun
+restaurante,restaurant,m. noun
+estreito,narrow,adj.
+mesa,table,f. noun
+jantar,dinner,m. noun
+vinho,wine,m. noun
+galinha,chicken,f. noun
+sopa,soup,f. noun
+colher,spoon,f. noun
+trinta e um,31,card. number
+data,date (calender),f. noun
+dezembro,december,m. noun/ month
+neve,snow,f. noun
+sapatos,shoes,m. pl. noun
+ir,to go,verb
+floresta,forrest,f. noun
+vento,wind,m. noun
+agitar,to shake,verb
+fino,thin,adj.
+folha,leaf,f. noun
+esposa,wive,f. noun
+pequeno,small,adj.
+diamante,diamant,m. noun
+casamento,weding,m. noun
+vestido,dress,m. noun
+domingo,Sunday,m. noun/ day
+jogar,to play,verb
+arroz,rice,m. noun
+outubro,october,m. noun/ month
+quinta-feira,thursday,f. noun/ day
+dois,two,card. number
+equipe,team,f. noun
+vinte e dois,22,card. number
+jogador,player,m. noun
+pé,foot,m. noun
+bola,cake,f. noun
+fã,fan,m. noun/ f. noun
+bater,to hit,verb
+cavalo,horse,m. noun
+forte,strong,adj.
+animal,animal,m. noun
+puxar,To pull,verb
+pesado,heavy,adj.
+caixa,box,f. noun
+relógio,watch,m. noun
+nove,nine,card. number
+quarenta,fourty,card. number
+manhã,morning,f. noun
+sol,Sunday,m. noun/ day
+luz,light (e.g. sunlight),f. noun
+café,cafe,m. noun
+nariz,nose,m. noun
+cheirar,to smell,verb
+frente,front,adverb/f. noun
+casa de banho,toilet,m. noun
+janela,window,f. noun
+ver,to see,verb
+olho,eye,m. noun
+jardim,garden,m. noun
+apanhar,to cath,verb
+seis,six ,card. number
+quilograma,kilogram,m. noun
+feio,ugly,adj.
+plano,plane,adj.
+peixe,fish,m. noun
+você,you  ,pronoun
+aprender,to learn,verb
+dez,ten,card. number
+dedo,finger,m. noun
+programa (de computador),program,m. noun
+tecnologia,technology,f. noun
+eu,I ,pronoun
+cozinhar,To cook,verb
+ovo,this,m. noun
+café da manhã,breakfast,m. noun
+cozinha,kitchen,f. noun
+bom,good,adj.
+copo,cup,m. noun
+laranja,orange,f. noun
+suco,juice,m. noun
+estação de trem,train station,f. noun
+droga,way,f. noun
+pagar,To pay,verb
+prisão,prison,f. noun
+adulto,adult,m. noun
+doze,12,card. number
+mês,month,m. noun
+cento e dois,one hundred and two,card. number
+temperatura,temperature,f. noun
+quente,hot,adj.
+seco,dry,adj.
+verão,summer,m. noun
+suor,sweat,m. noun
+agosto,August,m. noun/ month
+piscina,swimming pool,f. noun
+natureza,nature,f. noun
+cantar,To sing,verb
+amarelo,yellow,adj.
+pássaro,bird,m. noun
+asa,wing,f. noun
+árvore,tree,f. noun
+madeira,wood,f. noun
+grosso,thick,adj.
+raíz,root,f. noun
+treze,13,card. number
+chão,floor,m. noun
+edifício,building,m. noun
+passar por,To pass by,verb
+morte,death,f. noun
+desenhar,to draw,verb
+caneta,pen,f. noun
+imagem,Image,f. noun
+pendurar,to hang,verb
+parede,wall,f. noun
+arte,art,f. noun
+dezoito,18,card. number
+buraco,hole,m. noun
+jogo,game,m. noun
+jogar,play,verb
+verde,verde,adj.
+quintal,garden,m. noun
+perder,to lose,verb
+grande,big,adj.
+mão,hand,f. noun
+macho,macho,adj.
+filme,movie,m. noun
+ator,actor,m. noun
+menino,boy,m. noun
+peça,piece,f. noun
+limão,lemon,m. noun
+açúcar,sugar,m. noun
+bolo,cake,m. noun
+garfo,fork,m. noun
+prato,plate,m. noun
+dezessete,27,card. number
+abril,April,m. noun/ month
+quarta-feira,Wednesday,f. noun/ day
+mercado,market,m. noun
+comida,food,f. noun
+almoço,lunch,m. noun
+pão,bread,m. noun
+carne,meat,f. noun
+banana,banana,f. noun
+ombro,shoulder,m. noun
+bolsa,bag,f. noun
+esquerda,left,adverb
+lado,side,m. noun
+levantar,To lift up,verb
+ela,she,pronoun
+deitar,to lay,verb
+quarto,bedroom,m. noun
+teto,ceiling,m. noun
+ventilador,fan,m. noun
+ar,air ,m. noun
+tempo,time,m. noun
+dezesseis,16,card. number
+tarde,late,f. noun
+avião,airplane,m. noun
+bilhete (de trem),ticket (train),m. noun
+dentro,inside,adverb
+aeroporto,airport,m. noun
+reto,straight,adjective
+para trás,backward,adverb
+celular,cell phone,m. noun
+rede,network,f. noun
+noventa,ninety,card. number
+minuto,minute,m. noun
+ligar,turn on,verb
+amigo,friend,m. noun
+rir,laugh,verb
+irmã,sister,f. noun
+nadar,swim,verb
+lago,lago,m. noun
+água,water,f. noun
+vizinho,neighbor,m. noun
+construir,build,verb
+oitenta e um,eighty one,card. number
+quadrado,square,m. noun
+metro,metro,m. noun
+casa,house,f. noun
+laranja,orange,adj/m.noun
+tinta,ink,f. noun
+irmão,brother,m. noun
+sessenta,sixty,card. number
+segundo,second,m. noun
+alto,alto,adj.
+monte,hill,m. noun
+corrida,running,f. noun
+correr,to run,verb
+rápido,quick,adj.
+presidente,president,m. noun
+ganhar,win,verb
+eleição,election,f. noun
+terça-feira,Tuesday,f. noun/ day
+novembro,November,m. noun/ month
+terceiro,third,ord. number
+sábado,Saturday,m. noun/ day
+bar,bar,m. noun
+vinte e um,twenty one,card. number
+cerveja,beer,f. noun
+garrafa,bottle,f. noun
+mau,want,adj.
+estudante,student,m. noun/ f. noun
+universidade,university,f. noun
+raça,breed,f. noun
+pele,skin,f. noun
+cor,cor,f. noun
+humano,human,m. noun
+lutar,fight,verb
+triste,sad,adj.
+agradável,nice,adj.
+secretária,Secretary,f. noun
+fora,out,adverb
+escritório,office,m. noun
+ônibus,bus,m. noun
+sessenta e dois,sixty two,card. number
+biblioteca,library,f. noun
+cartão,card,m. noun
+claro,clear,adj.
+azul,blue,adj.
+camisa,shirt,f. noun
+polícia,police,f. noun
+arma,weapon,f. noun
+atirar,shoot,verb
+assassinato,murder,m. noun
+professor,professor,m. noun
+escola,school,f. noun
+cinquenta,fifty,card. number
+meio,means,m. noun
+cem,cem,card. number
+ensinar,teach,verb
+criança,child,f. noun
+lápis,pencil,m. noun
+nota,note,f. noun
+menina,girl,f. noun
+sonho,dream,m. noun
+sorrir,smile,verb
+rainha,queen,f. noun
+sexo,sex,m. noun
+feminino,feminine,adj.
+ouro,gold,m. noun
+cabeça,head,f. noun
+rico,rico,adj.
+autor,Author,m. noun
+cinquenta e dois,fifty two,card. number
+semana,week,f. noun
+escrever,write,verb
+mil,thousand,card. number
+página,page,f. noun
+livro,book,m. noun
+clube,club,m. noun
+devagar,slowly,adj.
+música,music,f. noun
+escutar,listen,verb
+instrumento,instrument,m. noun
+sul,south,m. noun
+oeste,west,m. noun
+localização,location,f. noun
+cinquenta e um,fifty one,card. number
+espaço,space,m. noun
+voar,to fly,verb
+segunda-feira,monday,f. noun/ day
+trem,train  ,m. noun
+oitenta e dois,eighty two,card. number
+leste,east,m. noun
+direção,direction,f. noun
+pobre,poor,adj.
+mãe,mother,f. noun
+trabalhar,to work,verb
+cidade,city,f. noun
+ciência,science,f. noun
+revista,magazine,f. noun
+cérebro,brain,m. noun
+pensar,to think,verb
+nuclear,nuclear,adj.
+calor,heat,m. noun
+energia,energy,f. noun
+noventa e um,ninety one,card. number
+gasolina,gasoline,f. noun
+motor,motor,m. noun
+carro,car,m. noun
+transporte,transport,m. noun
+dirigir,lead,verb
+ponte,ponte,f. noun
+virar,turn,verb
+direita,right,f. noun
+parar,stop,verb
+setenta e dois,seventy two,card. number
+hora,hour,f. noun
+limpar,to clean,verb
+casaco,jacket,m. noun
+sangue,blood,m. noun
+mancha,stain,f. noun
+caro,expensive,adj.
+conta,account,f. noun
+baixo,low,adj.
+vale,valley,m. noun
+fazenda,farm,f. noun
+alimentar,to feed,verb
+vaca,cow,f. noun
+leite,milk,m. noun
+misturar,mix,verb
+queijo,cheese,m. noun
+nós,we,pronoun
+quarto,bedroom,ord. number
+julho,July,m. noun
+ouvir,listen,verb
+explodir,To explode,verb
+vermelho,red,adj.
+marido,husband,m. noun
+rosto,face,m. noun
+barba,beard,f. noun
+dez mil,ten thousand,card. number
+curto,short,adj.
+preto,black,adj.
+cabelo,hair,m. noun
+lábio,lip,m. noun
+dente,tooth,m. noun
+dizer,tell,verb
+consonante,consonant,f. noun
+som,sound,m. noun
+quatorze,fourteen,card. number
+noventa e dois,ninety-two,card. number
+encontrar,find,verb
+país,country,m. noun
+profundo,deep,adj.
+oceano,Ocean,m. noun
+onda,wave,f. noun
+não,no,adverb
+mapa,Map,m. noun
+borda,edge,f. noun
+mundo,world,m. noun
+provar,prove,verb
+sal,salt,m. noun
+óleo,oil,m. noun
+maçã,Apple,f. noun
+sessenta e um,sixty one,card. number
+rua,Street,f. noun
+esquina,corner,f. noun
+igreja,church,f. noun
+padre,father,m. noun
+casar,marry,verb
+avô,Grandfather,m. noun
+chapéu,hat,m. noun
+terno,suit,m. noun
+fraco,weak,adj.
+joelho,knee,m. noun
+rezar,to pray,verb
+Deus,God,m. noun
+paz,paz,f. noun
+jornal,newspaper,m. noun
+repórter,news reporter,m. noun/ f. noun
+ataque,attack,m. noun
+exército,army,m. noun
+metal,metal,m. noun
+navio,ship,m. noun
+queimar,burn,verb
+dezenove,nineteen,card. number
+quarenta e um,Forty-one,card. number
+guerra,war,f. noun
+prata,talk,f. noun
+material,material,m. noun
+notebook,notebook,m. noun
+fechar,close,verb
+maio,May,m. noun/ month
+quinto,fifth,ord. number
+semente,seed,f. noun
+crescer,grow up,verb
+rosa,pink/rose,adj. /f. noun
+flor,flower,f. noun
+cortar,cut,verb
+outono,autumn,m. noun
+estação,season,f. noun
+setembro,September,m. noun/ month
+acampamento,camp,m. noun
+filha,daughter,f. noun
+acordar,wake up,verb
+macio,soft,adj.
+grama,grass,f. noun
+dedo do pé,toe,m. noun
+chave,key,f. noun
+apartamento,apartment,m. noun
+porta,door,f. noun
+cento e onze,one hundred and eleven,card. number
+eles,they,pronoun
+viver,to live,verb
+telhado,roof,m. noun
+velho,old,adj.
+doente,sick,adj.
+avó,Grandmother,f. noun
+lavar,to wash,verb
+sabão,soap,m. noun
+limpo,clean,adj.
+famoso,famous,adj.
+banda,band,f. noun
+topo,top,m. noun
+rádio,radio,m. noun
+canção,song,f. noun
+cem mil,hundred thousand,card. number
+pessoa,person,f. noun
+multidão,crowd,f. noun
+dançar,to dance,verb
+ele,he,pronoun
+mal,bad,adj.
+matar,to kill,verb
+filho,son,m. noun
+faca,knife,f. noun
+inferno,hell,m. noun
+fogo,fire,m. noun
+religião,religion,f. noun
+setenta e um,seventy-one,card. number
+vítima,victim,f. noun
+veneno,poison,m. noun
+chá,tea,m. noun
+morrer,to die,verb
+paciente,patient,m. noun/ f. noun
+ferimento,injury,m. noun
+quebrar,to break,verb
+braço,arm,m. noun
+osso,bone,m. noun
+hospital,hospital,m. noun
+sala,room,f. noun
+quarenta e dois,forty-two,card. number
+curvar,to bend,verb
+língua,language,f. noun
+abrir,to open,verb
+boca,mouth,f. noun
+vogal,vowel,f. noun
+cento e dez,hundred and ten,card. number
+libra,pound,f. noun
+leve,Light (weight),adj.
+soldado,soldier,m. noun
+marrom,brown,adj
+pó,powder,m. noun
+padrão,pattern,m. noun
+camiseta,T-shirt,f. noun
+pai,dad,m. noun
+assistir,to watch,verb
+trinta e dois,thirty-two,card. number
+polegada,inch,f. noun
+televisão,TV,f. noun
+amplo,broad,adj.
+tela,screen,f. noun
+beber,drink,verb
+fresco,fresco,adj.
+bebida,beverage,f. noun
+sul,south,m. noun
