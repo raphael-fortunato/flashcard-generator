@@ -27,3 +27,10 @@ if __name__ == "__main__":
         file = phrasecard(args.csv, args.deck)
         subprocess.call(['xdg-open', file])
 
+"""
+TODO:
+1. combine seperate files into one file
+2. add verb cards
+3. quicken bing search
+4. implement new inovations
+"""
