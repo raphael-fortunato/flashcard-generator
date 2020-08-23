@@ -29,8 +29,8 @@ if __name__ == "__main__":
 
 """
 TODO:
-1. combine seperate files into one file
-2. add verb cards
-3. quicken bing search
-4. implement new inovations
+    1. merge phrasecard and wordcard
+    2. create verbcard
+    3. improve image search
+
 """

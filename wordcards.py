@@ -6,31 +6,18 @@ import os
 import sys
 import random
 import cv2
+import time
 import numpy as np
 import pandas as pd
 import shutil
 from flashcard import word_model
 from audio_downloader import get_audio
+from selenium.webdriver import ActionChains
+from selenium.webdriver.common.keys import Keys
+from selenium import webdriver
+import urllib.request
 
-X = -1
-Y = -1
-
-
-def string_path(searchterms):
-    return os.path.join('dataset', ','.join(searchterms))
-
-
-def Select_image(event, x, y, flags, param):
-    global X, Y
-    if event == cv2.EVENT_LBUTTONDBLCLK:
-        if(x > 0 and x < 1000 and y > 0 and y < 1000):
-            X = int(x*5 / 1000)
-            Y = int(y*5 / 1000)
-            print(X, Y)
-
-
-def search(searchterms, save_dir):
-    os.system(f"./bbid.py -s \"{searchterms}\" -o \"{save_dir}\" --limit 20")
+site = 'https://www.google.com/search?tbm=isch&q='
 
 
 def exists(file):
@@ -40,57 +27,51 @@ def exists(file):
         return None
 
 
-def SearchImage(word, translation):
-    global X, Y
-    p1 = Process(target=search, args=(translation, word))
-    p2 = Process(target=search, args=(word, word))
-    p1.start()
-    p2.start()
-    p1.join()
-    p2.join()
+def ispresent(driver):
+    try:
+        driver.find_element_by_class_name("n3VNCb")
+        return True
+    except:
+        return False
 
-    canvas = np.zeros((1000, 1000, 3), dtype=np.uint8)
-    images = os.listdir(word)
 
-    for x in range(5):
-        for y in range(5):
-            try:
-                image = cv2.imread(os.path.join(word, images[x * 5 + y]))
-                image = cv2.resize(image, (200, 200))
-                canvas[y*200:y*200 + 200, x * 200:x * 200 + 200, :] = image
-            except Exception as e:
-                print(e)
-    cv2.namedWindow(translation)
-    cv2.setMouseCallback(translation, Select_image)
-    while True:
-        cv2.imshow(translation, canvas)
-        k = cv2.waitKey()
-        if k == 27:
-            return None
-        if X != -1 and Y != -1 and k == ord(' '):
-            if not os.path.isdir("selected_images"):
-                os.makedirs("selected_images")
-            selected = os.path.join(
-                "selected_images", f"{word}.jpg")
-            image = cv2.imread(os.path.join(word, images[X * 5 + Y]))
-            if image.shape[0] > 512 or image.shape[1] > 512:
-                shape = image.shape
-                if shape[0] <= shape[1]:
-                    image = cv2.resize(
-                        image, (int((shape[0]/shape[1]) * 512), 512))
-                else:
-                    image = cv2.resize(
-                        image, (512, int((shape[1]/shape[0]) * 512)))
-                cv2.imwrite(selected, image)
-            X = -1
-            Y = -1
-            shutil.rmtree(word)
-            cv2.destroyAllWindows()
-            return selected
+def search_image(driver, query, word):
+    try:
+        url = site + query
+        driver.get(url)
+        img = None
+        path = os.path.join('selected_images', f'{word}.jpg')
+        i = 0
+        while True:
+            i += 1
+            time.sleep(2)
+            if ispresent(driver):
+                break
+            if i > 30:
+                driver.close()
+                return None
+        img = driver.find_element_by_class_name("n3VNCb")
+        urllib.request.urlretrieve(img.get_attribute('src'), path)
+        image = cv2.imread(path)
+        if image.shape[0] > 512 or image.shape[1] > 512:
+            shape = image.shape
+            if shape[0] <= shape[1]:
+                image = cv2.resize(
+                    image, (int((shape[0]/shape[1]) * 512), 512))
+            else:
+                image = cv2.resize(
+                    image, (512, int((shape[1]/shape[0]) * 512)))
+            cv2.imwrite(path, image)
+        return path
+    except:
+        return None
 
 
 def wordcard(filename, deck):
     deck = genanki.Deck(random.randint(1 << 30, 1 << 31), deck)
+
+    driver = webdriver.Firefox()
+    driver.maximize_window()
 
     if not os.path.isdir('audio'):
         os.makedirs('audio')
@@ -101,7 +82,7 @@ def wordcard(filename, deck):
     images = []
     delete_idx = []
     for index, row in df.iterrows():
-        path = SearchImage(row['word'], row['translation'])
+        path = search_image(driver, row['translation'], row['word'])
         if path is None:
             break
         images.append(path)
@@ -137,8 +118,7 @@ def wordcard(filename, deck):
 
     my_package = genanki.Package(deck)
     media = [os.path.abspath(img) for img in images if exists(img) is not None]
-    media.extend([aud
-                  for aud in audio if exists(aud) is not None])
+    media.extend([aud for aud in audio if exists(aud) is not None])
     my_package.media_files = media
     file = f'{time.time()}.apkg'
     my_package.write_to_file(file)
