@@ -1,625 +1,625 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,word,translation,info
-0,0,0,0,terra,earth,f. noun
-1,1,1,1,céu,heaven,m. noun
-2,2,2,2,cima,up,adverb
-3,3,3,3,lua,moon,f. noun
-4,4,4,4,um,1,card. number
-5,5,5,5,branco,white,adj.
-6,6,6,6,ponto,point,m. noun
-7,7,7,7,estrela,star,f. noun
-8,8,8,8,sexta-feira,Friday,f. noun /day
-9,9,9,9,garçom,waiter,m. noun
-10,10,10,10,ficar de pé,to stand,verb
-11,11,11,11,costas,back (body part),f. pl. noun
-12,12,12,12,dor,pain,f. noun
-13,13,13,13,contar,to tell,verb
-14,14,14,14,cento e um,101,card. number
-15,15,15,15,jovem,young,adj.
-16,16,16,16,cachorro,dog,m. noun
-17,17,17,17,parque,park,m. noun
-18,18,18,18,pular,to jump,verb
-19,19,19,19,primavera,spring,f. noun
-20,20,20,20,março,March,m. noun/ month
-21,21,21,21,vinte,20,card. number
-22,22,22,22,raso,shallow water,adj.
-23,23,23,23,rio,river,m. noun
-24,24,24,24,gelo,ice,m. noun
-25,25,25,25,derreter,to melt,verb
-26,26,26,26,beijar,to kiss,verb
-27,27,27,27,pescoço,neck,m. noun
-28,28,28,28,tocar,to play music,verb
-29,29,29,29,corpo,body,m. noun
-30,30,30,30,sexo,sex,m. noun
-31,31,31,31,casamento,marriage,m. noun
-32,32,32,32,janeiro,January,m. noun
-33,33,33,33,primeiro,first,ord. number
-34,34,34,34,novo,new,adj.
-35,35,35,35,esporte,sport,m. noun
-36,36,36,36,exercício,exercise,m. noun
-37,37,37,37,saudável,healthy,adj.
-38,38,38,38,cinco,five,card. number
-39,39,39,39,pé,foot,m. noun
-40,40,40,40,baixo,low,adj.
-41,41,41,41,mulher,woman,f. noun
-42,42,42,42,vestir,to wear,verb
-43,43,43,43,orelha,ear,f. noun
-44,44,44,44,anel,ring,m. noun
-45,45,45,45,apertado,tight,adj.
-46,46,46,46,saia,skirt,f. noun
-47,47,47,47,surdo,deaf,adj.
-48,48,48,48,pais,parents,m. pl. noun
-49,49,49,49,alto,high,adj.
-50,50,50,50,telefone,telephone,m. noun
-51,51,51,51,bebê,baby,m. noun
-52,52,52,52,chorar,cry,verb
-53,53,53,53,lágrima,tear,f. noun
-54,54,54,54,escuro,dark,adj.
-55,55,55,55,teatro,theater,m. noun
-56,56,56,56,rei,king,m. noun
-57,57,57,57,amar,to love,verb
-58,58,58,58,mil e um,a thousand and one,card. number
-59,59,59,59,noite,night,f. noun
-60,60,60,60,inverno,winter,m. noun
-61,61,61,61,segundo,second,ord. Number
-62,62,62,62,fevereiro,February,m. noun/ month
-63,63,63,63,andar,to walk,verb
-64,64,64,64,frio,cold,adj.
-65,65,65,65,norte,north,m. noun
-66,66,66,66,cidade,city,f. noun
-67,67,67,67,chuva,rain,f. noun
-68,68,68,68,molhado,wet,adj.
-69,69,69,69,cinza,grey,adj./f. noun
-70,70,70,70,comprar,to buy,verb
-71,71,71,71,presente,gift,m. noun
-72,72,72,72,bicicleta,bicycle,f. noun
-73,73,73,73,isso,that,pronoun
-74,74,74,74,dinheiro,money,m. noun
-75,75,75,75,roupa,clothing,f. noun
-76,76,76,76,loja,store,f. noun
-77,77,77,77,placa,board,f. noun
-78,78,78,78,vender,to sell,verb
-79,79,79,79,longo,long,adj.
-80,80,80,80,solto,loose,adj.
-81,81,81,81,calças,pants,f. pl. noun
-82,82,82,82,bolso,handbag,m. noun
-83,83,83,83,preço,price,m. noun
-84,84,84,84,oitenta,80,card. number
-85,85,85,85,setenta,70,card. number
-86,86,86,86,um milhão,a million,card. number
-87,87,87,87,ano,year,m. noun
-88,88,88,88,antigo,old,adj.
-89,89,89,89,duro,hard,adj.
-90,90,90,90,pedra,stone,f. noun
-91,91,91,91,montanha,mountain,f. noun
-92,92,92,92,cair,To fall,verb
-93,93,93,93,morto,dead,adj.
-94,94,94,94,caminhão,truck,m. noun
-95,95,95,95,pneu,tire,m. noun
-96,96,96,96,chão,floor,m. noun
-97,97,97,97,carregar,to load,verb
-98,98,98,98,peso,weight,m. noun
-99,99,99,99,zero,0,card. number
-100,100,100,100,curvo,curve,f. noun
-101,101,101,101,círculo,circle,m. noun
-102,102,102,102,número,number,m. noun
-103,103,103,103,junho,June,m. noun/ month
-104,104,104,104,morno,warm,adj.
-105,105,105,105,praia,beach,f. noun
-106,106,106,106,areia,sand,f. noun
-107,107,107,107,ilha,island,f. noun
-108,108,108,108,paraíso,paradise,m. noun
-109,109,109,109,porco,pig,m. noun
-110,110,110,110,quatro,4,card. number
-111,111,111,111,perna,leg,f. noun
-112,112,112,112,sujo,dirrty,adj.
-113,113,113,113,cavar,to dig,verb
-114,114,114,114,terra,land,f. noun
-115,115,115,115,comer,to eat,verb
-116,116,116,116,milho,corn,m. noun
-117,117,117,117,planta,plant,f. noun
-118,118,118,118,família,family,f. noun
-119,119,119,119,sentar,to sit,verb
-120,120,120,120,vidro,glass,m. noun
-121,121,121,121,fundo,bottom,m. noun
-122,122,122,122,barco,boat,m. noun
-123,123,123,123,câmera,camera,f. noun
-124,124,124,124,fotografia,photography,f. noun
-125,125,125,125,mar,sea,m. noun
-126,126,126,126,artista,artist,m. noun/ f. noun
-127,127,127,127,cobra,snake,m. noun
-128,128,128,128,ferramenta,tool,f. noun
-129,129,129,129,bonito,beautiful,adj.
-130,130,130,130,argila,clay,f. noun
-131,131,131,131,lâmpada,lamp,f. noun
-132,132,132,132,trinta,30,card. number
-133,133,133,133,centímetro,centimeter,m. noun
-134,134,134,134,alto,high,adj.
-135,135,135,135,barato,cheap,adj.
-136,136,136,136,hotel,hotel,m. noun
-137,137,137,137,sete,seven ,card. number
-138,138,138,138,dia,day,m. noun
-139,139,139,139,plástico,plastic,m. noun
-140,140,140,140,cama,bed,f. noun
-141,141,141,141,tribunal,court,m. noun
-142,142,142,142,advogado,laywer,m. noun
-143,143,143,143,quieto,quiet,adj.
-144,144,144,144,voz,voice,f. noun
-145,145,145,145,um bilião,one billion,card. number
-146,146,146,146,dólar,dolar,m. noun
-147,147,147,147,contrato,contract,m. noun
-148,148,148,148,assinar,to sign,verb
-149,149,149,149,final de tarde,afternoon,m. noun
-150,150,150,150,onze,11,card. number
-151,151,151,151,quinze,15,card. number
-152,152,152,152,casa,house,f. noun
-153,153,153,153,fechadura,lock,f. noun
-154,154,154,154,dormir,To sleep,verb
-155,155,155,155,coração,heart,m. noun
-156,156,156,156,doença,disease,f. noun
-157,157,157,157,médico,doctor,m. noun
-158,158,158,158,empurrar,push,verb
-159,159,159,159,agulha,needle,f. noun
-160,160,160,160,remédio,medicin,m. noun
-161,161,161,161,vivo,live,adj.
-162,162,162,162,gato,cat,m. noun
-163,163,163,163,seguir,To follow,verb
-164,164,164,164,três,three,card. number
-165,165,165,165,cego,blind,adj.
-166,166,166,166,rato,rat,m. noun
-167,167,167,167,papel,paper,m. noun
-168,168,168,168,carta,letter,f. noun
-169,169,169,169,banco,banc,m. noun
-170,170,170,170,gerente,boss,m. noun/ f. noun
-171,171,171,171,trabalho,work,m. noun
-172,172,172,172,sim,yes,adverb
-173,173,173,173,feliz,happy,adj.
-174,174,174,174,homem,man,m. noun
-175,175,175,175,vocês,you (plural),pronoun
-176,176,176,176,oito,8,card. number
-177,177,177,177,cadeira,chair,f. noun
-178,178,178,178,restaurante,restaurant,m. noun
-179,179,179,179,estreito,narrow,adj.
-180,180,180,180,mesa,table,f. noun
-181,181,181,181,jantar,dinner,m. noun
-182,182,182,182,vinho,wine,m. noun
-183,183,183,183,galinha,chicken,f. noun
-184,184,184,184,sopa,soup,f. noun
-185,185,185,185,colher,spoon,f. noun
-186,186,186,186,trinta e um,31,card. number
-187,187,187,187,data,date (calender),f. noun
-188,188,188,188,dezembro,december,m. noun/ month
-189,189,189,189,neve,snow,f. noun
-190,190,190,190,sapatos,shoes,m. pl. noun
-191,191,191,191,ir,to go,verb
-192,192,192,192,floresta,forrest,f. noun
-193,193,193,193,vento,wind,m. noun
-194,194,194,194,agitar,to shake,verb
-195,195,195,195,fino,thin,adj.
-196,196,196,196,folha,leaf,f. noun
-197,197,197,197,esposa,wive,f. noun
-198,198,198,198,pequeno,small,adj.
-199,199,199,199,diamante,diamant,m. noun
-200,200,200,200,casamento,weding,m. noun
-201,201,201,201,vestido,dress,m. noun
-202,202,202,202,domingo,Sunday,m. noun/ day
-203,203,203,203,jogar,to play,verb
-204,204,204,204,arroz,rice,m. noun
-205,205,205,205,outubro,october,m. noun/ month
-206,206,206,206,quinta-feira,thursday,f. noun/ day
-207,207,207,207,dois,two,card. number
-208,208,208,208,equipe,team,f. noun
-209,209,209,209,vinte e dois,22,card. number
-210,210,210,210,jogador,player,m. noun
-211,211,211,211,pé,foot,m. noun
-212,212,212,212,bola,cake,f. noun
-213,213,213,213,fã,fan,m. noun/ f. noun
-214,214,214,214,bater,to hit,verb
-215,215,215,215,cavalo,horse,m. noun
-216,216,216,216,forte,strong,adj.
-217,217,217,217,animal,animal,m. noun
-218,218,218,218,puxar,To pull,verb
-219,219,219,219,pesado,heavy,adj.
-220,220,220,220,caixa,box,f. noun
-221,221,221,221,relógio,watch,m. noun
-222,222,222,222,nove,nine,card. number
-223,223,223,223,quarenta,fourty,card. number
-224,224,224,224,manhã,morning,f. noun
-225,225,225,225,sol,Sunday,m. noun/ day
-226,226,226,226,luz,light (e.g. sunlight),f. noun
-227,227,227,227,café,cafe,m. noun
-228,228,228,228,nariz,nose,m. noun
-229,229,229,229,cheirar,to smell,verb
-230,230,230,230,frente,front,adverb/f. noun
-231,231,231,231,casa de banho,toilet,m. noun
-232,232,232,232,janela,window,f. noun
-233,233,233,233,ver,to see,verb
-234,234,234,234,olho,eye,m. noun
-235,235,235,235,jardim,garden,m. noun
-236,236,236,236,apanhar,to cath,verb
-237,237,237,237,seis,six ,card. number
-238,238,238,238,quilograma,kilogram,m. noun
-239,239,239,239,feio,ugly,adj.
-240,240,240,240,plano,plane,adj.
-241,241,241,241,peixe,fish,m. noun
-242,242,242,242,você,you  ,pronoun
-243,243,243,243,aprender,to learn,verb
-244,244,244,244,dez,ten,card. number
-245,245,245,245,dedo,finger,m. noun
-246,246,246,246,programa (de computador),program,m. noun
-247,247,247,247,tecnologia,technology,f. noun
-248,248,248,248,eu,I ,pronoun
-249,249,249,249,cozinhar,To cook,verb
-250,250,250,250,ovo,this,m. noun
-251,251,251,251,café da manhã,breakfast,m. noun
-252,252,252,252,cozinha,kitchen,f. noun
-253,253,253,253,bom,good,adj.
-254,254,254,254,copo,cup,m. noun
-255,255,255,255,laranja,orange,f. noun
-256,256,256,256,suco,juice,m. noun
-257,257,257,257,estação de trem,train station,f. noun
-258,258,258,258,droga,way,f. noun
-259,259,259,259,pagar,To pay,verb
-260,260,260,260,prisão,prison,f. noun
-261,261,261,261,adulto,adult,m. noun
-262,262,262,262,doze,12,card. number
-263,263,263,263,mês,month,m. noun
-264,264,264,264,cento e dois,one hundred and two,card. number
-265,265,265,265,temperatura,temperature,f. noun
-266,266,266,266,quente,hot,adj.
-267,267,267,267,seco,dry,adj.
-268,268,268,268,verão,summer,m. noun
-269,269,269,269,suor,sweat,m. noun
-270,270,270,270,agosto,August,m. noun/ month
-271,271,271,271,piscina,swimming pool,f. noun
-272,272,272,272,natureza,nature,f. noun
-273,273,273,273,cantar,To sing,verb
-274,274,274,274,amarelo,yellow,adj.
-275,275,275,275,pássaro,bird,m. noun
-276,276,276,276,asa,wing,f. noun
-277,277,277,277,árvore,tree,f. noun
-278,278,278,278,madeira,wood,f. noun
-279,279,279,279,grosso,thick,adj.
-280,280,280,280,raíz,root,f. noun
-281,281,281,281,treze,13,card. number
-282,282,282,282,chão,floor,m. noun
-283,283,283,283,edifício,building,m. noun
-284,284,284,284,passar por,To pass by,verb
-285,285,285,285,morte,death,f. noun
-286,286,286,286,desenhar,to draw,verb
-287,287,287,287,caneta,pen,f. noun
-288,288,288,288,imagem,Image,f. noun
-289,289,289,289,pendurar,to hang,verb
-290,290,290,290,parede,wall,f. noun
-291,291,291,291,arte,art,f. noun
-292,292,292,292,dezoito,18,card. number
-293,293,293,293,buraco,hole,m. noun
-294,294,294,294,jogo,game,m. noun
-295,295,295,295,jogar,play,verb
-296,296,296,296,verde,verde,adj.
-297,297,297,297,quintal,garden,m. noun
-298,298,298,298,perder,to lose,verb
-299,299,299,299,grande,big,adj.
-300,300,300,300,mão,hand,f. noun
-301,301,301,301,macho,macho,adj.
-302,302,302,302,filme,movie,m. noun
-303,303,303,303,ator,actor,m. noun
-304,304,304,304,menino,boy,m. noun
-305,305,305,305,peça,piece,f. noun
-306,306,306,306,limão,lemon,m. noun
-307,307,307,307,açúcar,sugar,m. noun
-308,308,308,308,bolo,cake,m. noun
-309,309,309,309,garfo,fork,m. noun
-310,310,310,310,prato,plate,m. noun
-311,311,311,311,dezessete,27,card. number
-312,312,312,312,abril,April,m. noun/ month
-313,313,313,313,quarta-feira,Wednesday,f. noun/ day
-314,314,314,314,mercado,market,m. noun
-315,315,315,315,comida,food,f. noun
-316,316,316,316,almoço,lunch,m. noun
-317,317,317,317,pão,bread,m. noun
-318,318,318,318,carne,meat,f. noun
-319,319,319,319,banana,banana,f. noun
-320,320,320,320,ombro,shoulder,m. noun
-321,321,321,321,bolsa,bag,f. noun
-322,322,322,322,esquerda,left,adverb
-323,323,323,323,lado,side,m. noun
-324,324,324,324,levantar,To lift up,verb
-325,325,325,325,ela,she,pronoun
-326,326,326,326,deitar,to lay,verb
-327,327,327,327,quarto,bedroom,m. noun
-328,328,328,328,teto,ceiling,m. noun
-329,329,329,329,ventilador,fan,m. noun
-330,330,330,330,ar,air ,m. noun
-331,331,331,331,tempo,time,m. noun
-332,332,332,332,dezesseis,16,card. number
-333,333,333,333,tarde,late,f. noun
-334,334,334,334,avião,airplane,m. noun
-335,335,335,335,bilhete (de trem),ticket (train),m. noun
-336,336,336,336,dentro,inside,adverb
-337,337,337,337,aeroporto,airport,m. noun
-338,338,338,338,reto,straight,adjective
-339,339,339,339,para trás,backward,adverb
-340,340,340,340,celular,cell phone,m. noun
-341,341,341,341,rede,network,f. noun
-342,342,342,342,noventa,ninety,card. number
-343,343,343,343,minuto,minute,m. noun
-344,344,344,344,ligar,turn on,verb
-345,345,345,345,amigo,friend,m. noun
-346,346,346,346,rir,laugh,verb
-347,347,347,347,irmã,sister,f. noun
-348,348,348,348,nadar,swim,verb
-349,349,349,349,lago,lago,m. noun
-350,350,350,350,água,water,f. noun
-351,351,351,351,vizinho,neighbor,m. noun
-352,352,352,352,construir,build,verb
-353,353,353,353,oitenta e um,eighty one,card. number
-354,354,354,354,quadrado,square,m. noun
-355,355,355,355,metro,metro,m. noun
-356,356,356,356,casa,house,f. noun
-357,357,357,357,laranja,orange,adj/m.noun
-358,358,358,358,tinta,ink,f. noun
-359,359,359,359,irmão,brother,m. noun
-360,360,360,360,sessenta,sixty,card. number
-361,361,361,361,segundo,second,m. noun
-362,362,362,362,alto,alto,adj.
-363,363,363,363,monte,hill,m. noun
-364,364,364,364,corrida,running,f. noun
-365,365,365,365,correr,to run,verb
-366,366,366,366,rápido,quick,adj.
-367,367,367,367,presidente,president,m. noun
-368,368,368,368,ganhar,win,verb
-369,369,369,369,eleição,election,f. noun
-370,370,370,370,terça-feira,Tuesday,f. noun/ day
-371,371,371,371,novembro,November,m. noun/ month
-372,372,372,372,terceiro,third,ord. number
-373,373,373,373,sábado,Saturday,m. noun/ day
-374,374,374,374,bar,bar,m. noun
-375,375,375,375,vinte e um,twenty one,card. number
-376,376,376,376,cerveja,beer,f. noun
-377,377,377,377,garrafa,bottle,f. noun
-378,378,378,378,mau,want,adj.
-379,379,379,379,estudante,student,m. noun/ f. noun
-380,380,380,380,universidade,university,f. noun
-381,381,381,381,raça,breed,f. noun
-382,382,382,382,pele,skin,f. noun
-383,383,383,383,cor,cor,f. noun
-384,384,384,384,humano,human,m. noun
-385,385,385,385,lutar,fight,verb
-386,386,386,386,triste,sad,adj.
-387,387,387,387,agradável,nice,adj.
-388,388,388,388,secretária,Secretary,f. noun
-389,389,389,389,fora,out,adverb
-390,390,390,390,escritório,office,m. noun
-391,391,391,391,ônibus,bus,m. noun
-392,392,392,392,sessenta e dois,sixty two,card. number
-393,393,393,393,biblioteca,library,f. noun
-394,394,394,394,cartão,card,m. noun
-395,395,395,395,claro,clear,adj.
-396,396,396,396,azul,blue,adj.
-397,397,397,397,camisa,shirt,f. noun
-398,398,398,398,polícia,police,f. noun
-399,399,399,399,arma,weapon,f. noun
-400,400,400,400,atirar,shoot,verb
-401,401,401,401,assassinato,murder,m. noun
-402,402,402,402,professor,professor,m. noun
-403,403,403,403,escola,school,f. noun
-404,404,404,404,cinquenta,fifty,card. number
-405,405,405,405,meio,means,m. noun
-406,406,406,406,cem,cem,card. number
-407,407,407,407,ensinar,teach,verb
-408,408,408,408,criança,child,f. noun
-409,409,409,409,lápis,pencil,m. noun
-410,410,410,410,nota,note,f. noun
-411,411,411,411,menina,girl,f. noun
-412,412,412,412,sonho,dream,m. noun
-413,413,413,413,sorrir,smile,verb
-414,414,414,414,rainha,queen,f. noun
-415,415,415,415,sexo,sex,m. noun
-416,416,416,416,feminino,feminine,adj.
-417,417,417,417,ouro,gold,m. noun
-418,418,418,418,cabeça,head,f. noun
-419,419,419,419,rico,rico,adj.
-420,420,420,420,autor,Author,m. noun
-421,421,421,421,cinquenta e dois,fifty two,card. number
-422,422,422,422,semana,week,f. noun
-423,423,423,423,escrever,write,verb
-424,424,424,424,mil,thousand,card. number
-425,425,425,425,página,page,f. noun
-426,426,426,426,livro,book,m. noun
-427,427,427,427,clube,club,m. noun
-428,428,428,428,devagar,slowly,adj.
-429,429,429,429,música,music,f. noun
-430,430,430,430,escutar,listen,verb
-431,431,431,431,instrumento,instrument,m. noun
-432,432,432,432,sul,south,m. noun
-433,433,433,433,oeste,west,m. noun
-434,434,434,434,localização,location,f. noun
-435,435,435,435,cinquenta e um,fifty one,card. number
-436,436,436,436,espaço,space,m. noun
-437,437,437,437,voar,to fly,verb
-438,438,438,438,segunda-feira,monday,f. noun/ day
-439,439,439,439,trem,train  ,m. noun
-440,440,440,440,oitenta e dois,eighty two,card. number
-441,441,441,441,leste,east,m. noun
-442,442,442,442,direção,direction,f. noun
-443,443,443,443,pobre,poor,adj.
-444,444,444,444,mãe,mother,f. noun
-445,445,445,445,trabalhar,to work,verb
-446,446,446,446,cidade,city,f. noun
-447,447,447,447,ciência,science,f. noun
-448,448,448,448,revista,magazine,f. noun
-449,449,449,449,cérebro,brain,m. noun
-450,450,450,450,pensar,to think,verb
-451,451,451,451,nuclear,nuclear,adj.
-452,452,452,452,calor,heat,m. noun
-453,453,453,453,energia,energy,f. noun
-454,454,454,454,noventa e um,ninety one,card. number
-455,455,455,455,gasolina,gasoline,f. noun
-456,456,456,456,motor,motor,m. noun
-457,457,457,457,carro,car,m. noun
-458,458,458,458,transporte,transport,m. noun
-459,459,459,459,dirigir,lead,verb
-460,460,460,460,ponte,ponte,f. noun
-461,461,461,461,virar,turn,verb
-462,462,462,462,direita,right,f. noun
-463,463,463,463,parar,stop,verb
-464,464,464,464,setenta e dois,seventy two,card. number
-465,465,465,465,hora,hour,f. noun
-466,466,466,466,limpar,to clean,verb
-467,467,467,467,casaco,jacket,m. noun
-468,468,468,468,sangue,blood,m. noun
-469,469,469,469,mancha,stain,f. noun
-470,470,470,470,caro,expensive,adj.
-471,471,471,471,conta,account,f. noun
-472,472,472,472,baixo,low,adj.
-473,473,473,473,vale,valley,m. noun
-474,474,474,474,fazenda,farm,f. noun
-475,475,475,475,alimentar,to feed,verb
-476,476,476,476,vaca,cow,f. noun
-477,477,477,477,leite,milk,m. noun
-478,478,478,478,misturar,mix,verb
-479,479,479,479,queijo,cheese,m. noun
-480,480,480,480,nós,we,pronoun
-481,481,481,481,quarto,bedroom,ord. number
-482,482,482,482,julho,July,m. noun
-483,483,483,483,ouvir,listen,verb
-484,484,484,484,explodir,To explode,verb
-485,485,485,485,vermelho,red,adj.
-486,486,486,486,marido,husband,m. noun
-487,487,487,487,rosto,face,m. noun
-488,488,488,488,barba,beard,f. noun
-489,489,489,489,dez mil,ten thousand,card. number
-490,490,490,490,curto,short,adj.
-491,491,491,491,preto,black,adj.
-492,492,492,492,cabelo,hair,m. noun
-493,493,493,493,lábio,lip,m. noun
-494,494,494,494,dente,tooth,m. noun
-495,495,495,495,dizer,tell,verb
-496,496,496,496,consonante,consonant,f. noun
-497,497,497,497,som,sound,m. noun
-498,498,498,498,quatorze,fourteen,card. number
-499,499,499,499,noventa e dois,ninety-two,card. number
-500,500,500,500,encontrar,find,verb
-501,501,501,501,país,country,m. noun
-502,502,502,502,profundo,deep,adj.
-503,503,503,503,oceano,Ocean,m. noun
-504,504,504,504,onda,wave,f. noun
-505,505,505,505,não,no,adverb
-506,506,506,506,mapa,Map,m. noun
-507,507,507,507,borda,edge,f. noun
-508,508,508,508,mundo,world,m. noun
-509,509,509,509,provar,prove,verb
-510,510,510,510,sal,salt,m. noun
-511,511,511,511,óleo,oil,m. noun
-512,512,512,512,maçã,Apple,f. noun
-513,513,513,513,sessenta e um,sixty one,card. number
-514,514,514,514,rua,Street,f. noun
-515,515,515,515,esquina,corner,f. noun
-516,516,516,516,igreja,church,f. noun
-517,517,517,517,padre,father,m. noun
-518,518,518,518,casar,marry,verb
-519,519,519,519,avô,Grandfather,m. noun
-520,520,520,520,chapéu,hat,m. noun
-521,521,521,521,terno,suit,m. noun
-522,522,522,522,fraco,weak,adj.
-523,523,523,523,joelho,knee,m. noun
-524,524,524,524,rezar,to pray,verb
-525,525,525,525,Deus,God,m. noun
-526,526,526,526,paz,paz,f. noun
-527,527,527,527,jornal,newspaper,m. noun
-528,528,528,528,repórter,news reporter,m. noun/ f. noun
-529,529,529,529,ataque,attack,m. noun
-530,530,530,530,exército,army,m. noun
-531,531,531,531,metal,metal,m. noun
-532,532,532,532,navio,ship,m. noun
-533,533,533,533,queimar,burn,verb
-534,534,534,534,dezenove,nineteen,card. number
-535,535,535,535,quarenta e um,Forty-one,card. number
-536,536,536,536,guerra,war,f. noun
-537,537,537,537,prata,talk,f. noun
-538,538,538,538,material,material,m. noun
-539,539,539,539,notebook,notebook,m. noun
-540,540,540,540,fechar,close,verb
-541,541,541,541,maio,May,m. noun/ month
-542,542,542,542,quinto,fifth,ord. number
-543,543,543,543,semente,seed,f. noun
-544,544,544,544,crescer,grow up,verb
-545,545,545,545,rosa,pink/rose,adj. /f. noun
-546,546,546,546,flor,flower,f. noun
-547,547,547,547,cortar,cut,verb
-548,548,548,548,outono,autumn,m. noun
-549,549,549,549,estação,season,f. noun
-550,550,550,550,setembro,September,m. noun/ month
-551,551,551,551,acampamento,camp,m. noun
-552,552,552,552,filha,daughter,f. noun
-553,553,553,553,acordar,wake up,verb
-554,554,554,554,macio,soft,adj.
-555,555,555,555,grama,grass,f. noun
-556,556,556,556,dedo do pé,toe,m. noun
-557,557,557,557,chave,key,f. noun
-558,558,558,558,apartamento,apartment,m. noun
-559,559,559,559,porta,door,f. noun
-560,560,560,560,cento e onze,one hundred and eleven,card. number
-561,561,561,561,eles,they,pronoun
-562,562,562,562,viver,to live,verb
-563,563,563,563,telhado,roof,m. noun
-564,564,564,564,velho,old,adj.
-565,565,565,565,doente,sick,adj.
-566,566,566,566,avó,Grandmother,f. noun
-567,567,567,567,lavar,to wash,verb
-568,568,568,568,sabão,soap,m. noun
-569,569,569,569,limpo,clean,adj.
-570,570,570,570,famoso,famous,adj.
-571,571,571,571,banda,band,f. noun
-572,572,572,572,topo,top,m. noun
-573,573,573,573,rádio,radio,m. noun
-574,574,574,574,canção,song,f. noun
-575,575,575,575,cem mil,hundred thousand,card. number
-576,576,576,576,pessoa,person,f. noun
-577,577,577,577,multidão,crowd,f. noun
-578,578,578,578,dançar,to dance,verb
-579,579,579,579,ele,he,pronoun
-580,580,580,580,mal,bad,adj.
-581,581,581,581,matar,to kill,verb
-582,582,582,582,filho,son,m. noun
-583,583,583,583,faca,knife,f. noun
-584,584,584,584,inferno,hell,m. noun
-585,585,585,585,fogo,fire,m. noun
-586,586,586,586,religião,religion,f. noun
-587,587,587,587,setenta e um,seventy-one,card. number
-588,588,588,588,vítima,victim,f. noun
-589,589,589,589,veneno,poison,m. noun
-590,590,590,590,chá,tea,m. noun
-591,591,591,591,morrer,to die,verb
-592,592,592,592,paciente,patient,m. noun/ f. noun
-593,593,593,593,ferimento,injury,m. noun
-594,594,594,594,quebrar,to break,verb
-595,595,595,595,braço,arm,m. noun
-596,596,596,596,osso,bone,m. noun
-597,597,597,597,hospital,hospital,m. noun
-598,598,598,598,sala,room,f. noun
-599,599,599,599,quarenta e dois,forty-two,card. number
-600,600,600,600,curvar,to bend,verb
-601,601,601,601,língua,language,f. noun
-602,602,602,602,abrir,to open,verb
-603,603,603,603,boca,mouth,f. noun
-604,604,604,604,vogal,vowel,f. noun
-605,605,605,605,cento e dez,hundred and ten,card. number
-606,606,606,606,libra,pound,f. noun
-607,607,607,607,leve,Light (weight),adj.
-608,608,608,608,soldado,soldier,m. noun
-609,609,609,609,marrom,brown,adj
-610,610,610,610,pó,powder,m. noun
-611,611,611,611,padrão,pattern,m. noun
-612,612,612,612,camiseta,T-shirt,f. noun
-613,613,613,613,pai,dad,m. noun
-614,614,614,614,assistir,to watch,verb
-615,615,615,615,trinta e dois,thirty-two,card. number
-616,616,616,616,polegada,inch,f. noun
-617,617,617,617,televisão,TV,f. noun
-618,618,618,618,amplo,broad,adj.
-619,619,619,619,tela,screen,f. noun
-620,620,620,620,beber,drink,verb
-621,621,621,621,fresco,fresco,adj.
-622,622,622,622,bebida,beverage,f. noun
-623,623,623,623,sul,south,m. noun
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,word,translation,info
+0,0,0,0,0,terra,earth,f. noun
+1,1,1,1,1,céu,heaven,m. noun
+2,2,2,2,2,cima,up,adverb
+3,3,3,3,3,lua,moon,f. noun
+4,4,4,4,4,um,1,card. number
+5,5,5,5,5,branco,white,adj.
+6,6,6,6,6,ponto,point,m. noun
+7,7,7,7,7,estrela,star,f. noun
+8,8,8,8,8,sexta-feira,Friday,f. noun /day
+9,9,9,9,9,garçom,waiter,m. noun
+10,10,10,10,10,ficar de pé,to stand,verb
+11,11,11,11,11,costas,back (body part),f. pl. noun
+12,12,12,12,12,dor,pain,f. noun
+13,13,13,13,13,contar,to tell,verb
+14,14,14,14,14,cento e um,101,card. number
+15,15,15,15,15,jovem,young,adj.
+16,16,16,16,16,cachorro,dog,m. noun
+17,17,17,17,17,parque,park,m. noun
+18,18,18,18,18,pular,to jump,verb
+19,19,19,19,19,primavera,spring,f. noun
+20,20,20,20,20,março,March,m. noun/ month
+21,21,21,21,21,vinte,20,card. number
+22,22,22,22,22,raso,shallow water,adj.
+23,23,23,23,23,rio,river,m. noun
+24,24,24,24,24,gelo,ice,m. noun
+25,25,25,25,25,derreter,to melt,verb
+26,26,26,26,26,beijar,to kiss,verb
+27,27,27,27,27,pescoço,neck,m. noun
+28,28,28,28,28,tocar,to play music,verb
+29,29,29,29,29,corpo,body,m. noun
+30,30,30,30,30,sexo,sex,m. noun
+31,31,31,31,31,casamento,marriage,m. noun
+32,32,32,32,32,janeiro,January,m. noun
+33,33,33,33,33,primeiro,first,ord. number
+34,34,34,34,34,novo,new,adj.
+35,35,35,35,35,esporte,sport,m. noun
+36,36,36,36,36,exercício,exercise,m. noun
+37,37,37,37,37,saudável,healthy,adj.
+38,38,38,38,38,cinco,five,card. number
+39,39,39,39,39,pé,foot,m. noun
+40,40,40,40,40,baixo,low,adj.
+41,41,41,41,41,mulher,woman,f. noun
+42,42,42,42,42,vestir,to wear,verb
+43,43,43,43,43,orelha,ear,f. noun
+44,44,44,44,44,anel,ring,m. noun
+45,45,45,45,45,apertado,tight,adj.
+46,46,46,46,46,saia,skirt,f. noun
+47,47,47,47,47,surdo,deaf,adj.
+48,48,48,48,48,pais,parents,m. pl. noun
+49,49,49,49,49,alto,high,adj.
+50,50,50,50,50,telefone,telephone,m. noun
+51,51,51,51,51,bebê,baby,m. noun
+52,52,52,52,52,chorar,cry,verb
+53,53,53,53,53,lágrima,tear,f. noun
+54,54,54,54,54,escuro,dark,adj.
+55,55,55,55,55,teatro,theater,m. noun
+56,56,56,56,56,rei,king,m. noun
+57,57,57,57,57,amar,to love,verb
+58,58,58,58,58,mil e um,a thousand and one,card. number
+59,59,59,59,59,noite,night,f. noun
+60,60,60,60,60,inverno,winter,m. noun
+61,61,61,61,61,segundo,second,ord. Number
+62,62,62,62,62,fevereiro,February,m. noun/ month
+63,63,63,63,63,andar,to walk,verb
+64,64,64,64,64,frio,cold,adj.
+65,65,65,65,65,norte,north,m. noun
+66,66,66,66,66,cidade,city,f. noun
+67,67,67,67,67,chuva,rain,f. noun
+68,68,68,68,68,molhado,wet,adj.
+69,69,69,69,69,cinza,grey,adj./f. noun
+70,70,70,70,70,comprar,to buy,verb
+71,71,71,71,71,presente,gift,m. noun
+72,72,72,72,72,bicicleta,bicycle,f. noun
+73,73,73,73,73,isso,that,pronoun
+74,74,74,74,74,dinheiro,money,m. noun
+75,75,75,75,75,roupa,clothing,f. noun
+76,76,76,76,76,loja,store,f. noun
+77,77,77,77,77,placa,board,f. noun
+78,78,78,78,78,vender,to sell,verb
+79,79,79,79,79,longo,long,adj.
+80,80,80,80,80,solto,loose,adj.
+81,81,81,81,81,calças,pants,f. pl. noun
+82,82,82,82,82,bolso,handbag,m. noun
+83,83,83,83,83,preço,price,m. noun
+84,84,84,84,84,oitenta,80,card. number
+85,85,85,85,85,setenta,70,card. number
+86,86,86,86,86,um milhão,a million,card. number
+87,87,87,87,87,ano,year,m. noun
+88,88,88,88,88,antigo,old,adj.
+89,89,89,89,89,duro,hard,adj.
+90,90,90,90,90,pedra,stone,f. noun
+91,91,91,91,91,montanha,mountain,f. noun
+92,92,92,92,92,cair,To fall,verb
+93,93,93,93,93,morto,dead,adj.
+94,94,94,94,94,caminhão,truck,m. noun
+95,95,95,95,95,pneu,tire,m. noun
+96,96,96,96,96,chão,floor,m. noun
+97,97,97,97,97,carregar,to load,verb
+98,98,98,98,98,peso,weight,m. noun
+99,99,99,99,99,zero,0,card. number
+100,100,100,100,100,curvo,curve,f. noun
+101,101,101,101,101,círculo,circle,m. noun
+102,102,102,102,102,número,number,m. noun
+103,103,103,103,103,junho,June,m. noun/ month
+104,104,104,104,104,morno,warm,adj.
+105,105,105,105,105,praia,beach,f. noun
+106,106,106,106,106,areia,sand,f. noun
+107,107,107,107,107,ilha,island,f. noun
+108,108,108,108,108,paraíso,paradise,m. noun
+109,109,109,109,109,porco,pig,m. noun
+110,110,110,110,110,quatro,4,card. number
+111,111,111,111,111,perna,leg,f. noun
+112,112,112,112,112,sujo,dirrty,adj.
+113,113,113,113,113,cavar,to dig,verb
+114,114,114,114,114,terra,land,f. noun
+115,115,115,115,115,comer,to eat,verb
+116,116,116,116,116,milho,corn,m. noun
+117,117,117,117,117,planta,plant,f. noun
+118,118,118,118,118,família,family,f. noun
+119,119,119,119,119,sentar,to sit,verb
+120,120,120,120,120,vidro,glass,m. noun
+121,121,121,121,121,fundo,bottom,m. noun
+122,122,122,122,122,barco,boat,m. noun
+123,123,123,123,123,câmera,camera,f. noun
+124,124,124,124,124,fotografia,photography,f. noun
+125,125,125,125,125,mar,sea,m. noun
+126,126,126,126,126,artista,artist,m. noun/ f. noun
+127,127,127,127,127,cobra,snake,m. noun
+128,128,128,128,128,ferramenta,tool,f. noun
+129,129,129,129,129,bonito,beautiful,adj.
+130,130,130,130,130,argila,clay,f. noun
+131,131,131,131,131,lâmpada,lamp,f. noun
+132,132,132,132,132,trinta,30,card. number
+133,133,133,133,133,centímetro,centimeter,m. noun
+134,134,134,134,134,alto,high,adj.
+135,135,135,135,135,barato,cheap,adj.
+136,136,136,136,136,hotel,hotel,m. noun
+137,137,137,137,137,sete,seven ,card. number
+138,138,138,138,138,dia,day,m. noun
+139,139,139,139,139,plástico,plastic,m. noun
+140,140,140,140,140,cama,bed,f. noun
+141,141,141,141,141,tribunal,court,m. noun
+142,142,142,142,142,advogado,laywer,m. noun
+143,143,143,143,143,quieto,quiet,adj.
+144,144,144,144,144,voz,voice,f. noun
+145,145,145,145,145,um bilião,one billion,card. number
+146,146,146,146,146,dólar,dolar,m. noun
+147,147,147,147,147,contrato,contract,m. noun
+148,148,148,148,148,assinar,to sign,verb
+149,149,149,149,149,final de tarde,afternoon,m. noun
+150,150,150,150,150,onze,11,card. number
+151,151,151,151,151,quinze,15,card. number
+152,152,152,152,152,casa,house,f. noun
+153,153,153,153,153,fechadura,lock,f. noun
+154,154,154,154,154,dormir,To sleep,verb
+155,155,155,155,155,coração,heart,m. noun
+156,156,156,156,156,doença,disease,f. noun
+157,157,157,157,157,médico,doctor,m. noun
+158,158,158,158,158,empurrar,push,verb
+159,159,159,159,159,agulha,needle,f. noun
+160,160,160,160,160,remédio,medicin,m. noun
+161,161,161,161,161,vivo,live,adj.
+162,162,162,162,162,gato,cat,m. noun
+163,163,163,163,163,seguir,To follow,verb
+164,164,164,164,164,três,three,card. number
+165,165,165,165,165,cego,blind,adj.
+166,166,166,166,166,rato,rat,m. noun
+167,167,167,167,167,papel,paper,m. noun
+168,168,168,168,168,carta,letter,f. noun
+169,169,169,169,169,banco,banc,m. noun
+170,170,170,170,170,gerente,boss,m. noun/ f. noun
+171,171,171,171,171,trabalho,work,m. noun
+172,172,172,172,172,sim,yes,adverb
+173,173,173,173,173,feliz,happy,adj.
+174,174,174,174,174,homem,man,m. noun
+175,175,175,175,175,vocês,you (plural),pronoun
+176,176,176,176,176,oito,8,card. number
+177,177,177,177,177,cadeira,chair,f. noun
+178,178,178,178,178,restaurante,restaurant,m. noun
+179,179,179,179,179,estreito,narrow,adj.
+180,180,180,180,180,mesa,table,f. noun
+181,181,181,181,181,jantar,dinner,m. noun
+182,182,182,182,182,vinho,wine,m. noun
+183,183,183,183,183,galinha,chicken,f. noun
+184,184,184,184,184,sopa,soup,f. noun
+185,185,185,185,185,colher,spoon,f. noun
+186,186,186,186,186,trinta e um,31,card. number
+187,187,187,187,187,data,date (calender),f. noun
+188,188,188,188,188,dezembro,december,m. noun/ month
+189,189,189,189,189,neve,snow,f. noun
+190,190,190,190,190,sapatos,shoes,m. pl. noun
+191,191,191,191,191,ir,to go,verb
+192,192,192,192,192,floresta,forrest,f. noun
+193,193,193,193,193,vento,wind,m. noun
+194,194,194,194,194,agitar,to shake,verb
+195,195,195,195,195,fino,thin,adj.
+196,196,196,196,196,folha,leaf,f. noun
+197,197,197,197,197,esposa,wive,f. noun
+198,198,198,198,198,pequeno,small,adj.
+199,199,199,199,199,diamante,diamant,m. noun
+200,200,200,200,200,casamento,weding,m. noun
+201,201,201,201,201,vestido,dress,m. noun
+202,202,202,202,202,domingo,Sunday,m. noun/ day
+203,203,203,203,203,jogar,to play,verb
+204,204,204,204,204,arroz,rice,m. noun
+205,205,205,205,205,outubro,october,m. noun/ month
+206,206,206,206,206,quinta-feira,thursday,f. noun/ day
+207,207,207,207,207,dois,two,card. number
+208,208,208,208,208,equipe,team,f. noun
+209,209,209,209,209,vinte e dois,22,card. number
+210,210,210,210,210,jogador,player,m. noun
+211,211,211,211,211,pé,foot,m. noun
+212,212,212,212,212,bola,cake,f. noun
+213,213,213,213,213,fã,fan,m. noun/ f. noun
+214,214,214,214,214,bater,to hit,verb
+215,215,215,215,215,cavalo,horse,m. noun
+216,216,216,216,216,forte,strong,adj.
+217,217,217,217,217,animal,animal,m. noun
+218,218,218,218,218,puxar,To pull,verb
+219,219,219,219,219,pesado,heavy,adj.
+220,220,220,220,220,caixa,box,f. noun
+221,221,221,221,221,relógio,watch,m. noun
+222,222,222,222,222,nove,nine,card. number
+223,223,223,223,223,quarenta,fourty,card. number
+224,224,224,224,224,manhã,morning,f. noun
+225,225,225,225,225,sol,Sunday,m. noun/ day
+226,226,226,226,226,luz,light (e.g. sunlight),f. noun
+227,227,227,227,227,café,cafe,m. noun
+228,228,228,228,228,nariz,nose,m. noun
+229,229,229,229,229,cheirar,to smell,verb
+230,230,230,230,230,frente,front,adverb/f. noun
+231,231,231,231,231,casa de banho,toilet,m. noun
+232,232,232,232,232,janela,window,f. noun
+233,233,233,233,233,ver,to see,verb
+234,234,234,234,234,olho,eye,m. noun
+235,235,235,235,235,jardim,garden,m. noun
+236,236,236,236,236,apanhar,to cath,verb
+237,237,237,237,237,seis,six ,card. number
+238,238,238,238,238,quilograma,kilogram,m. noun
+239,239,239,239,239,feio,ugly,adj.
+240,240,240,240,240,plano,plane,adj.
+241,241,241,241,241,peixe,fish,m. noun
+242,242,242,242,242,você,you  ,pronoun
+243,243,243,243,243,aprender,to learn,verb
+244,244,244,244,244,dez,ten,card. number
+245,245,245,245,245,dedo,finger,m. noun
+246,246,246,246,246,programa (de computador),program,m. noun
+247,247,247,247,247,tecnologia,technology,f. noun
+248,248,248,248,248,eu,I ,pronoun
+249,249,249,249,249,cozinhar,To cook,verb
+250,250,250,250,250,ovo,this,m. noun
+251,251,251,251,251,café da manhã,breakfast,m. noun
+252,252,252,252,252,cozinha,kitchen,f. noun
+253,253,253,253,253,bom,good,adj.
+254,254,254,254,254,copo,cup,m. noun
+255,255,255,255,255,laranja,orange,f. noun
+256,256,256,256,256,suco,juice,m. noun
+257,257,257,257,257,estação de trem,train station,f. noun
+258,258,258,258,258,droga,way,f. noun
+259,259,259,259,259,pagar,To pay,verb
+260,260,260,260,260,prisão,prison,f. noun
+261,261,261,261,261,adulto,adult,m. noun
+262,262,262,262,262,doze,12,card. number
+263,263,263,263,263,mês,month,m. noun
+264,264,264,264,264,cento e dois,one hundred and two,card. number
+265,265,265,265,265,temperatura,temperature,f. noun
+266,266,266,266,266,quente,hot,adj.
+267,267,267,267,267,seco,dry,adj.
+268,268,268,268,268,verão,summer,m. noun
+269,269,269,269,269,suor,sweat,m. noun
+270,270,270,270,270,agosto,August,m. noun/ month
+271,271,271,271,271,piscina,swimming pool,f. noun
+272,272,272,272,272,natureza,nature,f. noun
+273,273,273,273,273,cantar,To sing,verb
+274,274,274,274,274,amarelo,yellow,adj.
+275,275,275,275,275,pássaro,bird,m. noun
+276,276,276,276,276,asa,wing,f. noun
+277,277,277,277,277,árvore,tree,f. noun
+278,278,278,278,278,madeira,wood,f. noun
+279,279,279,279,279,grosso,thick,adj.
+280,280,280,280,280,raíz,root,f. noun
+281,281,281,281,281,treze,13,card. number
+282,282,282,282,282,chão,floor,m. noun
+283,283,283,283,283,edifício,building,m. noun
+284,284,284,284,284,passar por,To pass by,verb
+285,285,285,285,285,morte,death,f. noun
+286,286,286,286,286,desenhar,to draw,verb
+287,287,287,287,287,caneta,pen,f. noun
+288,288,288,288,288,imagem,Image,f. noun
+289,289,289,289,289,pendurar,to hang,verb
+290,290,290,290,290,parede,wall,f. noun
+291,291,291,291,291,arte,art,f. noun
+292,292,292,292,292,dezoito,18,card. number
+293,293,293,293,293,buraco,hole,m. noun
+294,294,294,294,294,jogo,game,m. noun
+295,295,295,295,295,jogar,play,verb
+296,296,296,296,296,verde,verde,adj.
+297,297,297,297,297,quintal,garden,m. noun
+298,298,298,298,298,perder,to lose,verb
+299,299,299,299,299,grande,big,adj.
+300,300,300,300,300,mão,hand,f. noun
+301,301,301,301,301,macho,macho,adj.
+302,302,302,302,302,filme,movie,m. noun
+303,303,303,303,303,ator,actor,m. noun
+304,304,304,304,304,menino,boy,m. noun
+305,305,305,305,305,peça,piece,f. noun
+306,306,306,306,306,limão,lemon,m. noun
+307,307,307,307,307,açúcar,sugar,m. noun
+308,308,308,308,308,bolo,cake,m. noun
+309,309,309,309,309,garfo,fork,m. noun
+310,310,310,310,310,prato,plate,m. noun
+311,311,311,311,311,dezessete,27,card. number
+312,312,312,312,312,abril,April,m. noun/ month
+313,313,313,313,313,quarta-feira,Wednesday,f. noun/ day
+314,314,314,314,314,mercado,market,m. noun
+315,315,315,315,315,comida,food,f. noun
+316,316,316,316,316,almoço,lunch,m. noun
+317,317,317,317,317,pão,bread,m. noun
+318,318,318,318,318,carne,meat,f. noun
+319,319,319,319,319,banana,banana,f. noun
+320,320,320,320,320,ombro,shoulder,m. noun
+321,321,321,321,321,bolsa,bag,f. noun
+322,322,322,322,322,esquerda,left,adverb
+323,323,323,323,323,lado,side,m. noun
+324,324,324,324,324,levantar,To lift up,verb
+325,325,325,325,325,ela,she,pronoun
+326,326,326,326,326,deitar,to lay,verb
+327,327,327,327,327,quarto,bedroom,m. noun
+328,328,328,328,328,teto,ceiling,m. noun
+329,329,329,329,329,ventilador,fan,m. noun
+330,330,330,330,330,ar,air ,m. noun
+331,331,331,331,331,tempo,time,m. noun
+332,332,332,332,332,dezesseis,16,card. number
+333,333,333,333,333,tarde,late,f. noun
+334,334,334,334,334,avião,airplane,m. noun
+335,335,335,335,335,bilhete (de trem),ticket (train),m. noun
+336,336,336,336,336,dentro,inside,adverb
+337,337,337,337,337,aeroporto,airport,m. noun
+338,338,338,338,338,reto,straight,adjective
+339,339,339,339,339,para trás,backward,adverb
+340,340,340,340,340,celular,cell phone,m. noun
+341,341,341,341,341,rede,network,f. noun
+342,342,342,342,342,noventa,ninety,card. number
+343,343,343,343,343,minuto,minute,m. noun
+344,344,344,344,344,ligar,turn on,verb
+345,345,345,345,345,amigo,friend,m. noun
+346,346,346,346,346,rir,laugh,verb
+347,347,347,347,347,irmã,sister,f. noun
+348,348,348,348,348,nadar,swim,verb
+349,349,349,349,349,lago,lago,m. noun
+350,350,350,350,350,água,water,f. noun
+351,351,351,351,351,vizinho,neighbor,m. noun
+352,352,352,352,352,construir,build,verb
+353,353,353,353,353,oitenta e um,eighty one,card. number
+354,354,354,354,354,quadrado,square,m. noun
+355,355,355,355,355,metro,metro,m. noun
+356,356,356,356,356,casa,house,f. noun
+357,357,357,357,357,laranja,orange,adj/m.noun
+358,358,358,358,358,tinta,ink,f. noun
+359,359,359,359,359,irmão,brother,m. noun
+360,360,360,360,360,sessenta,sixty,card. number
+361,361,361,361,361,segundo,second,m. noun
+362,362,362,362,362,alto,alto,adj.
+363,363,363,363,363,monte,hill,m. noun
+364,364,364,364,364,corrida,running,f. noun
+365,365,365,365,365,correr,to run,verb
+366,366,366,366,366,rápido,quick,adj.
+367,367,367,367,367,presidente,president,m. noun
+368,368,368,368,368,ganhar,win,verb
+369,369,369,369,369,eleição,election,f. noun
+370,370,370,370,370,terça-feira,Tuesday,f. noun/ day
+371,371,371,371,371,novembro,November,m. noun/ month
+372,372,372,372,372,terceiro,third,ord. number
+373,373,373,373,373,sábado,Saturday,m. noun/ day
+374,374,374,374,374,bar,bar,m. noun
+375,375,375,375,375,vinte e um,twenty one,card. number
+376,376,376,376,376,cerveja,beer,f. noun
+377,377,377,377,377,garrafa,bottle,f. noun
+378,378,378,378,378,mau,want,adj.
+379,379,379,379,379,estudante,student,m. noun/ f. noun
+380,380,380,380,380,universidade,university,f. noun
+381,381,381,381,381,raça,breed,f. noun
+382,382,382,382,382,pele,skin,f. noun
+383,383,383,383,383,cor,cor,f. noun
+384,384,384,384,384,humano,human,m. noun
+385,385,385,385,385,lutar,fight,verb
+386,386,386,386,386,triste,sad,adj.
+387,387,387,387,387,agradável,nice,adj.
+388,388,388,388,388,secretária,Secretary,f. noun
+389,389,389,389,389,fora,out,adverb
+390,390,390,390,390,escritório,office,m. noun
+391,391,391,391,391,ônibus,bus,m. noun
+392,392,392,392,392,sessenta e dois,sixty two,card. number
+393,393,393,393,393,biblioteca,library,f. noun
+394,394,394,394,394,cartão,card,m. noun
+395,395,395,395,395,claro,clear,adj.
+396,396,396,396,396,azul,blue,adj.
+397,397,397,397,397,camisa,shirt,f. noun
+398,398,398,398,398,polícia,police,f. noun
+399,399,399,399,399,arma,weapon,f. noun
+400,400,400,400,400,atirar,shoot,verb
+401,401,401,401,401,assassinato,murder,m. noun
+402,402,402,402,402,professor,professor,m. noun
+403,403,403,403,403,escola,school,f. noun
+404,404,404,404,404,cinquenta,fifty,card. number
+405,405,405,405,405,meio,means,m. noun
+406,406,406,406,406,cem,cem,card. number
+407,407,407,407,407,ensinar,teach,verb
+408,408,408,408,408,criança,child,f. noun
+409,409,409,409,409,lápis,pencil,m. noun
+410,410,410,410,410,nota,note,f. noun
+411,411,411,411,411,menina,girl,f. noun
+412,412,412,412,412,sonho,dream,m. noun
+413,413,413,413,413,sorrir,smile,verb
+414,414,414,414,414,rainha,queen,f. noun
+415,415,415,415,415,sexo,sex,m. noun
+416,416,416,416,416,feminino,feminine,adj.
+417,417,417,417,417,ouro,gold,m. noun
+418,418,418,418,418,cabeça,head,f. noun
+419,419,419,419,419,rico,rico,adj.
+420,420,420,420,420,autor,Author,m. noun
+421,421,421,421,421,cinquenta e dois,fifty two,card. number
+422,422,422,422,422,semana,week,f. noun
+423,423,423,423,423,escrever,write,verb
+424,424,424,424,424,mil,thousand,card. number
+425,425,425,425,425,página,page,f. noun
+426,426,426,426,426,livro,book,m. noun
+427,427,427,427,427,clube,club,m. noun
+428,428,428,428,428,devagar,slowly,adj.
+429,429,429,429,429,música,music,f. noun
+430,430,430,430,430,escutar,listen,verb
+431,431,431,431,431,instrumento,instrument,m. noun
+432,432,432,432,432,sul,south,m. noun
+433,433,433,433,433,oeste,west,m. noun
+434,434,434,434,434,localização,location,f. noun
+435,435,435,435,435,cinquenta e um,fifty one,card. number
+436,436,436,436,436,espaço,space,m. noun
+437,437,437,437,437,voar,to fly,verb
+438,438,438,438,438,segunda-feira,monday,f. noun/ day
+439,439,439,439,439,trem,train  ,m. noun
+440,440,440,440,440,oitenta e dois,eighty two,card. number
+441,441,441,441,441,leste,east,m. noun
+442,442,442,442,442,direção,direction,f. noun
+443,443,443,443,443,pobre,poor,adj.
+444,444,444,444,444,mãe,mother,f. noun
+445,445,445,445,445,trabalhar,to work,verb
+446,446,446,446,446,cidade,city,f. noun
+447,447,447,447,447,ciência,science,f. noun
+448,448,448,448,448,revista,magazine,f. noun
+449,449,449,449,449,cérebro,brain,m. noun
+450,450,450,450,450,pensar,to think,verb
+451,451,451,451,451,nuclear,nuclear,adj.
+452,452,452,452,452,calor,heat,m. noun
+453,453,453,453,453,energia,energy,f. noun
+454,454,454,454,454,noventa e um,ninety one,card. number
+455,455,455,455,455,gasolina,gasoline,f. noun
+456,456,456,456,456,motor,motor,m. noun
+457,457,457,457,457,carro,car,m. noun
+458,458,458,458,458,transporte,transport,m. noun
+459,459,459,459,459,dirigir,lead,verb
+460,460,460,460,460,ponte,ponte,f. noun
+461,461,461,461,461,virar,turn,verb
+462,462,462,462,462,direita,right,f. noun
+463,463,463,463,463,parar,stop,verb
+464,464,464,464,464,setenta e dois,seventy two,card. number
+465,465,465,465,465,hora,hour,f. noun
+466,466,466,466,466,limpar,to clean,verb
+467,467,467,467,467,casaco,jacket,m. noun
+468,468,468,468,468,sangue,blood,m. noun
+469,469,469,469,469,mancha,stain,f. noun
+470,470,470,470,470,caro,expensive,adj.
+471,471,471,471,471,conta,account,f. noun
+472,472,472,472,472,baixo,low,adj.
+473,473,473,473,473,vale,valley,m. noun
+474,474,474,474,474,fazenda,farm,f. noun
+475,475,475,475,475,alimentar,to feed,verb
+476,476,476,476,476,vaca,cow,f. noun
+477,477,477,477,477,leite,milk,m. noun
+478,478,478,478,478,misturar,mix,verb
+479,479,479,479,479,queijo,cheese,m. noun
+480,480,480,480,480,nós,we,pronoun
+481,481,481,481,481,quarto,bedroom,ord. number
+482,482,482,482,482,julho,July,m. noun
+483,483,483,483,483,ouvir,listen,verb
+484,484,484,484,484,explodir,To explode,verb
+485,485,485,485,485,vermelho,red,adj.
+486,486,486,486,486,marido,husband,m. noun
+487,487,487,487,487,rosto,face,m. noun
+488,488,488,488,488,barba,beard,f. noun
+489,489,489,489,489,dez mil,ten thousand,card. number
+490,490,490,490,490,curto,short,adj.
+491,491,491,491,491,preto,black,adj.
+492,492,492,492,492,cabelo,hair,m. noun
+493,493,493,493,493,lábio,lip,m. noun
+494,494,494,494,494,dente,tooth,m. noun
+495,495,495,495,495,dizer,tell,verb
+496,496,496,496,496,consonante,consonant,f. noun
+497,497,497,497,497,som,sound,m. noun
+498,498,498,498,498,quatorze,fourteen,card. number
+499,499,499,499,499,noventa e dois,ninety-two,card. number
+500,500,500,500,500,encontrar,find,verb
+501,501,501,501,501,país,country,m. noun
+502,502,502,502,502,profundo,deep,adj.
+503,503,503,503,503,oceano,Ocean,m. noun
+504,504,504,504,504,onda,wave,f. noun
+505,505,505,505,505,não,no,adverb
+506,506,506,506,506,mapa,Map,m. noun
+507,507,507,507,507,borda,edge,f. noun
+508,508,508,508,508,mundo,world,m. noun
+509,509,509,509,509,provar,prove,verb
+510,510,510,510,510,sal,salt,m. noun
+511,511,511,511,511,óleo,oil,m. noun
+512,512,512,512,512,maçã,Apple,f. noun
+513,513,513,513,513,sessenta e um,sixty one,card. number
+514,514,514,514,514,rua,Street,f. noun
+515,515,515,515,515,esquina,corner,f. noun
+516,516,516,516,516,igreja,church,f. noun
+517,517,517,517,517,padre,father,m. noun
+518,518,518,518,518,casar,marry,verb
+519,519,519,519,519,avô,Grandfather,m. noun
+520,520,520,520,520,chapéu,hat,m. noun
+521,521,521,521,521,terno,suit,m. noun
+522,522,522,522,522,fraco,weak,adj.
+523,523,523,523,523,joelho,knee,m. noun
+524,524,524,524,524,rezar,to pray,verb
+525,525,525,525,525,Deus,God,m. noun
+526,526,526,526,526,paz,paz,f. noun
+527,527,527,527,527,jornal,newspaper,m. noun
+528,528,528,528,528,repórter,news reporter,m. noun/ f. noun
+529,529,529,529,529,ataque,attack,m. noun
+530,530,530,530,530,exército,army,m. noun
+531,531,531,531,531,metal,metal,m. noun
+532,532,532,532,532,navio,ship,m. noun
+533,533,533,533,533,queimar,burn,verb
+534,534,534,534,534,dezenove,nineteen,card. number
+535,535,535,535,535,quarenta e um,Forty-one,card. number
+536,536,536,536,536,guerra,war,f. noun
+537,537,537,537,537,prata,talk,f. noun
+538,538,538,538,538,material,material,m. noun
+539,539,539,539,539,notebook,notebook,m. noun
+540,540,540,540,540,fechar,close,verb
+541,541,541,541,541,maio,May,m. noun/ month
+542,542,542,542,542,quinto,fifth,ord. number
+543,543,543,543,543,semente,seed,f. noun
+544,544,544,544,544,crescer,grow up,verb
+545,545,545,545,545,rosa,pink/rose,adj. /f. noun
+546,546,546,546,546,flor,flower,f. noun
+547,547,547,547,547,cortar,cut,verb
+548,548,548,548,548,outono,autumn,m. noun
+549,549,549,549,549,estação,season,f. noun
+550,550,550,550,550,setembro,September,m. noun/ month
+551,551,551,551,551,acampamento,camp,m. noun
+552,552,552,552,552,filha,daughter,f. noun
+553,553,553,553,553,acordar,wake up,verb
+554,554,554,554,554,macio,soft,adj.
+555,555,555,555,555,grama,grass,f. noun
+556,556,556,556,556,dedo do pé,toe,m. noun
+557,557,557,557,557,chave,key,f. noun
+558,558,558,558,558,apartamento,apartment,m. noun
+559,559,559,559,559,porta,door,f. noun
+560,560,560,560,560,cento e onze,one hundred and eleven,card. number
+561,561,561,561,561,eles,they,pronoun
+562,562,562,562,562,viver,to live,verb
+563,563,563,563,563,telhado,roof,m. noun
+564,564,564,564,564,velho,old,adj.
+565,565,565,565,565,doente,sick,adj.
+566,566,566,566,566,avó,Grandmother,f. noun
+567,567,567,567,567,lavar,to wash,verb
+568,568,568,568,568,sabão,soap,m. noun
+569,569,569,569,569,limpo,clean,adj.
+570,570,570,570,570,famoso,famous,adj.
+571,571,571,571,571,banda,band,f. noun
+572,572,572,572,572,topo,top,m. noun
+573,573,573,573,573,rádio,radio,m. noun
+574,574,574,574,574,canção,song,f. noun
+575,575,575,575,575,cem mil,hundred thousand,card. number
+576,576,576,576,576,pessoa,person,f. noun
+577,577,577,577,577,multidão,crowd,f. noun
+578,578,578,578,578,dançar,to dance,verb
+579,579,579,579,579,ele,he,pronoun
+580,580,580,580,580,mal,bad,adj.
+581,581,581,581,581,matar,to kill,verb
+582,582,582,582,582,filho,son,m. noun
+583,583,583,583,583,faca,knife,f. noun
+584,584,584,584,584,inferno,hell,m. noun
+585,585,585,585,585,fogo,fire,m. noun
+586,586,586,586,586,religião,religion,f. noun
+587,587,587,587,587,setenta e um,seventy-one,card. number
+588,588,588,588,588,vítima,victim,f. noun
+589,589,589,589,589,veneno,poison,m. noun
+590,590,590,590,590,chá,tea,m. noun
+591,591,591,591,591,morrer,to die,verb
+592,592,592,592,592,paciente,patient,m. noun/ f. noun
+593,593,593,593,593,ferimento,injury,m. noun
+594,594,594,594,594,quebrar,to break,verb
+595,595,595,595,595,braço,arm,m. noun
+596,596,596,596,596,osso,bone,m. noun
+597,597,597,597,597,hospital,hospital,m. noun
+598,598,598,598,598,sala,room,f. noun
+599,599,599,599,599,quarenta e dois,forty-two,card. number
+600,600,600,600,600,curvar,to bend,verb
+601,601,601,601,601,língua,language,f. noun
+602,602,602,602,602,abrir,to open,verb
+603,603,603,603,603,boca,mouth,f. noun
+604,604,604,604,604,vogal,vowel,f. noun
+605,605,605,605,605,cento e dez,hundred and ten,card. number
+606,606,606,606,606,libra,pound,f. noun
+607,607,607,607,607,leve,Light (weight),adj.
+608,608,608,608,608,soldado,soldier,m. noun
+609,609,609,609,609,marrom,brown,adj
+610,610,610,610,610,pó,powder,m. noun
+611,611,611,611,611,padrão,pattern,m. noun
+612,612,612,612,612,camiseta,T-shirt,f. noun
+613,613,613,613,613,pai,dad,m. noun
+614,614,614,614,614,assistir,to watch,verb
+615,615,615,615,615,trinta e dois,thirty-two,card. number
+616,616,616,616,616,polegada,inch,f. noun
+617,617,617,617,617,televisão,TV,f. noun
+618,618,618,618,618,amplo,broad,adj.
+619,619,619,619,619,tela,screen,f. noun
+620,620,620,620,620,beber,drink,verb
+621,621,621,621,621,fresco,fresco,adj.
+622,622,622,622,622,bebida,beverage,f. noun
+623,623,623,623,623,sul,south,m. noun

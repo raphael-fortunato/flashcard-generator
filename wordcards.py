@@ -14,6 +14,7 @@ from flashcard import word_model
 from audio_downloader import get_audio
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
 from selenium import webdriver
 import urllib.request
 
@@ -29,7 +30,8 @@ def exists(file):
 
 def ispresent(driver):
     try:
-        driver.find_element_by_class_name("n3VNCb")
+        driver.find_element(
+            By.XPATH, "/html/body/div[2]/c-wiz/div[4]/div[2]/div[3]/div/div/div[3]/div[2]/c-wiz/div[1]/div[1]/div/div[2]/a/img")
         return True
     except:
         return False
@@ -50,7 +52,8 @@ def search_image(driver, query, word):
             if i > 30:
                 driver.close()
                 return None
-        img = driver.find_element_by_class_name("n3VNCb")
+        img = driver.find_element(
+            By.XPATH, "/html/body/div[2]/c-wiz/div[4]/div[2]/div[3]/div/div/div[3]/div[2]/c-wiz/div[1]/div[1]/div/div[2]/a/img")
         urllib.request.urlretrieve(img.get_attribute('src'), path)
         image = cv2.imread(path)
         if image.shape[0] > 512 or image.shape[1] > 512:
