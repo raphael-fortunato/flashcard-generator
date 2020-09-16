@@ -49,7 +49,8 @@ def search_image(driver, query, word):
         print(e)
         return None
     img = None
-    path = os.path.join('selected_images', f'{word}.jpg')
+    path = os.path.join('selected_images',
+                        f'{word}_{random.randint(1 << 30, 1 << 31)}.jpg')
     i = 0
     while True:
         i += 1
@@ -117,7 +118,8 @@ def create_cards(card_type, filename, deck):
     for index, row in df.iterrows():
         if index >= len(images):
             break
-        audio_path = os.path.join('audio', f"{row['word'].split(',')[0]}.mp3")
+        audio_path = os.path.join(
+            'audio', f"{row['word'].split(',')[0]}_{random.randint(1 << 30, 1 << 31)}.mp3")
         audio.append(audio_path)
         if card_type == 'wordcards':
             get_audio(row["word"].split(",")[-1], audio_path)

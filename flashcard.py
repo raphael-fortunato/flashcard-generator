@@ -39,7 +39,7 @@ phrase_model = genanki.Model(
             'afmt': dedent("""\
               <div style='font-family: Arial; font-size: 20px;'>{{Audio}}</div>
               <div style='font-family: Arial; font-size: 20px;'>{{Picture}}</div>
-              <div style='font-family: Arial; font-size: 20px;'>{{Phrase}}</div>
+              <div style='font-family: Arial; font-size: 20px;'>{{Phrase_with}}</div>
               <div style='font-family: Arial; font-size: 20px;'>{{Part of Speech}}</div>
                 """)
         },
